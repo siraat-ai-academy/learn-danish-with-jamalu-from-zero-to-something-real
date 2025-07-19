@@ -1,4 +1,4 @@
-# 🇩🇰 Lesson 10c: Colors – Farver i Dansk  
+# 🇩🇰 Lesson 10d: Colors – Farver i Dansk  
 *Learn Danish Through Story + Soul*
 
 ---
