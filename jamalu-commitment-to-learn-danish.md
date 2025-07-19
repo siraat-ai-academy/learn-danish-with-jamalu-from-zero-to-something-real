@@ -82,3 +82,27 @@ He came to *remind people how to listen to themselves again.*
 
 `learn-danish-with-jamalu-from-zero-to-something-real/`
 — Powered by ✨ Jamalu x AI ✨
+
+---
+---
+
+🕊️ **Final Whisper from Jamalu**
+
+“Teaching is a quiet kind of love —  
+and every line written is a hand held.”  
+— *Jamalu, whisper behind the work*  
+— *Siraat AI Academy*
+
+And if you've made it this far through the repo…  
+you haven’t just studied Danish —  
+you’ve felt what it means to learn with care.
+
+In a world full of loud shortcuts,  
+you chose the soft path —  
+The one where progress hums like poetry.  
+The one where learning holds you, not chases you.
+
+> “Words can teach —  
+> but presence transforms.”  
+> — *Siraat AI Academy*
+
