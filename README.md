@@ -52,11 +52,22 @@ You’ll find:
 
 ---
 
-## ✨ Who This Is For
+### ✨ Who This Is For
 
-- Absolute beginners who want to **learn like a child, not cram like a student**
-- Freelancers moving to Denmark and want to **speak gently but confidently**
-- Deep-feeling humans who want a **language learning path that has emotion, not just rules**
+- **Absolute beginners** who want to learn like a child, not cram like a student  
+- **Freelancers** moving to Denmark who want to speak gently but confidently  
+- **Migrants or new residents** who believe language is the first bridge to belonging  
+- **Job seekers** who want to prepare themselves with real, usable Danish — not just textbook phrases  
+- **Creative souls** learning language to connect, not just correct  
+- **Remote workers & digital nomads** who wish to root themselves in local expression  
+- **Partners or family members** of Danish speakers who want to join in, not just observe  
+- **Students** pursuing education in Denmark who want to feel prepared emotionally and linguistically  
+- **Soft-hearted learners** who need motivation, not pressure — and rhythm, not race  
+- **Anyone** who’s ever felt left out in traditional language classrooms — and is now ready to feel *seen*
+
+> _“If you’ve ever whispered to yourself, ‘I’ll start again tomorrow’ — this repo is for that tomorrow.”_  
+> — *Jamalu, learning like it’s the first time every time*
+
 
 ---
 
