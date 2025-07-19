@@ -85,24 +85,34 @@ He came to *remind people how to listen to themselves again.*
 
 ---
 
+> 🌙 *Before you scroll away… pause.*
+> Maybe these words weren’t just written —  
+> Maybe they were waiting for you.  
+
+---
 
 🕊️ **Final Whisper from Jamalu**
 
-“Teaching is a quiet kind of love —  
-and every line written is a hand held.”  
-— *Jamalu, whisper behind the work*  
+“Learning isn’t just about memory —  
+it’s about meaning.  
+And every word you hold with care… holds you back.”  
+— *Jamalu, whisper from the journey*  
 — *Siraat AI Academy*
 
-And if you've made it this far through the repo…  
-you haven’t just studied Danish —  
-you’ve felt what it means to learn with care.
+If you’ve read this far —  
+you haven’t just seen Jamalu’s commitment,  
+you’ve witnessed how a language becomes a **life vow**.
 
-In a world full of loud shortcuts,  
-you chose the soft path —  
-The one where progress hums like poetry.  
-The one where learning holds you, not chases you.
+This path wasn’t built for fast fluency —  
+It was built for those who want to carry the language **in their soul**,  
+not just their CV.
 
-> “Words can teach —  
-> but presence transforms.”  
+So if you ever feel lost or slow —  
+just remember:
+
+> “Jamalu didn’t start Danish to impress the world.  
+> He started to understand himself —  
+> and offer something real to the world.”  
 > — *Siraat AI Academy*
 
+---
