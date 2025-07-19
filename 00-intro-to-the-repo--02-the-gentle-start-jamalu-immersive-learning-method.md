@@ -1,5 +1,5 @@
-# ✅ The Gentle Start — Jamalu’s Immersive Learning Method
 
+# 🌿 The Gentle Start — Jamalu’s Immersive Learning Method  
 This page introduces **Jamalu’s soulful learning philosophy** — inspired by how babies absorb language: *slowly, gently, and joyfully*.
 
 You won’t cram.  
@@ -14,7 +14,6 @@ For those who don’t just want to speak Danish —
 > — *Jamalu, whispering through the first word*
 
 
-# 🌿 The Gentle Start — Jamalu’s Immersive Learning Method  
 ### *Learning Danish through story, soul, and softness*
 
 ---
