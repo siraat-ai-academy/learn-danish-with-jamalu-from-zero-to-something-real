@@ -118,11 +118,3 @@ This is your place.
 
 ---
 
-
-
-
-
-
-—
-**Folder**: `00-intro-to-the-repo/`  
-**File name**: `02-the-gentle-start-jamalu-immersive-learning-method.md`
