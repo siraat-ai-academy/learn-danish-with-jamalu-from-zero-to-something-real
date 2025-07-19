@@ -1,113 +1,113 @@
-# 🇩🇰 Lesson 10b: Days & Months – Ugedage og Måneder  
+# 🇩🇰 Lesson 10d: Numbers Beyond 10 – Tal fra 11 til 50  
 *Learn Danish Through Story + Soul*
 
 ---
 
 ## 1. 🧵 Emotional Story: The Lesson Through Dialogue
 
-**Scene: A large wall calendar hangs in Lukas’s hallway.**  
-Each square is hand-marked with little notes, birthdays, and soft scribbles.  
-Tanya stands in front of it, tracing the weeks.  
-Jamalu, barefoot as always, reads the months like verses.  
-Lukas watches, smiling like someone who knows the rhythm of time.
+**Scene: A quiet outdoor flea market in Aarhus.**  
+Old books, scarves, and bicycles lean gently in the sun.  
+Jamalu holds a hand-written price tag: *27 kroner*.  
+Tanya tilts her head. Lukas watches them with warmth.
 
 **Tanya**:  
-“I want to know the names of the days…  
-but I don’t want to memorize them.  
-I want to *walk* through them.”
+“Twenty-seven? I only learned to count to ten…”
 
-**Lukas** (gently):  
-“Then we begin on *mandag* — Monday.  
-But we don’t march. We move like breath through the week.”
+**Jamalu** (smiling):  
+“But I want to say *I love this coat* — and I want to say *its price* with grace.”
 
-He points slowly:
-
-> **mandag – tirsdag – onsdag – torsdag – fredag – lørdag – søndag**
+**Lukas** (laughs softly):  
+“Then let’s step past ten. But not in a hurry.  
+Let’s count like we’re folding linens.  
+Slow. Gentle. Familiar.”
 
 ---
 
-**Jamalu** (softly):  
-“They sound like waves —  
-rising and resting…”
+He writes on an old napkin:
 
-**Tanya**:  
-“What do they mean?”
+> **11–20:**  
+> elleve – tolv – tretten – fjorten – femten – seksten – sytten – atten – nitten – tyve
+
+> **21–30:**  
+> enogtyve – toogtyve – treogtyve – fireogtyve – femogtyve – seksogtyve – syvogtyve – otteogtyve – niogtyve – tredive
+
+> **31–40:**  
+> enogtredive – toogtredive – … – fyrre
+
+> **41–50:**  
+> enogfyrre – toogfyrre – … – halvtreds
+
+---
+
+**Tanya** (squinting):  
+“Each number *wraps around twenty*?”
 
 **Lukas**:  
-“They come from old Norse gods, the moon, thunder…  
-but now, they simply mean rhythm.  
-Presence.”
+“Yes. In Danish, numbers after 20 are built backwards.  
+*‘Enogtyve’* means *one and twenty.*”
+
+**Jamalu**:  
+“It’s like poetry written in reverse.  
+The heart comes before the measure.”
 
 ---
 
-**Jamalu**:  
-“And the months?”
+They walk on. Lukas hands them each a number written on a leaf.  
+They whisper it like a spell.
 
-**Lukas**:  
-“Like old stones smoothed by time —  
-still carrying their shape,  
-but softened by centuries.”
-
-> **januar – februar – marts – april – maj – juni – juli – august – september – oktober – november – december**
-
----
-
-**Tanya**:  
-“Maj… it feels like a breath wrapped in flowers.”
-
-**Jamalu**:  
-“And søndag…  
-it sounds like something sacred —  
-like stillness wrapped in sky.”
+And somehow —  
+numbers begin to feel like footsteps.
 
 ---
 
 ## 2. 📘 Vocabulary + Pronunciation Table
 
-| Danish Word | English Meaning | Pronunciation (Jamalu-style)               |
-|-------------|------------------|--------------------------------------------|
-| mandag      | Monday           | "man-dah", soft ‘g’, no sharpness          |
-| tirsdag     | Tuesday          | "teers-dah", let the ‘r’ melt              |
-| onsdag      | Wednesday        | "ons-dah", whispered like wind             |
-| torsdag     | Thursday         | "tors-dah", ‘r’ lives in the throat        |
-| fredag      | Friday           | "frey-dah", like “fray-day”                |
-| lørdag      | Saturday         | "lur-dah", round and cozy                  |
-| søndag      | Sunday           | "suhn-dah", gentle ‘ø’, peaceful finish    |
-| januar      | January          | "yan-oo-ar", soft ‘j’ like English ‘y’     |
-| maj         | May              | "my", like a sigh                          |
-| december    | December         | "deh-sem-buh", light and fading            |
+| Danish Number  | English        | Pronunciation (Jamalu-style)                   |
+|----------------|----------------|------------------------------------------------|
+| elleve         | eleven         | "el-vuh", like velvet folded softly            |
+| tolv           | twelve         | "tol", clipped and rounded                     |
+| tretten        | thirteen       | "trat-en", crisp but not hard                  |
+| fjorten        | fourteen       | "fyore-ten", ‘j’ is soft like ‘y’              |
+| seksten        | sixteen        | "syce-ten", like “sigh-sten”                   |
+| atten          | eighteen       | "at-en", soft ‘d’ melts                        |
+| tyve           | twenty         | "too-vuh", breathy end                         |
+| enogtyve       | twenty-one     | "en-oh-too-vuh", gentle wave                   |
+| femogtyve      | twenty-five    | "fem-oh-too-vuh", like humming                 |
+| tredive        | thirty         | "trel-leh", ‘d’ disappears, almost two syllables|
+| fyrre          | forty          | "fur-eh", let the ‘r’ vibrate in the throat    |
+| halvtreds      | fifty          | "hal-f-tres", sounds like history              |
 
 ---
 
 ## 3. 🔁 Gentle Repetition Practice
 
-Let’s flow through time — not count it.
+Let’s step forward gently, number by number:
 
-- You say: **“mandag”**  
-- I say: **“mandag”**  
-- You say: **“mandag…”**  
-- I say: **“mandag…”**
-
----
-
-- You say: **“torsdag”**  
-- I say: **“torsdag”**  
-- You say: *(like a raindrop)* **“torsdag…”**  
-- I say: *(like a raindrop)* **“torsdag…”**
+- You say: **“elleve”**  
+- I say: **“elleve”**  
+- You say: *(like velvet)* **“elleve…”**  
+- I say: *(like velvet)* **“elleve…”**
 
 ---
 
-- You say: **“maj”**  
-- I say: **“maj”**  
-- You say: **“maj…”**  
-- I say: **“maj…”**
+- You say: **“enogtyve”**  
+- I say: **“enogtyve”**  
+- You say: *(backward rhythm)* **“en… og… tyve…”**  
+- I say: *(backward rhythm)* **“en… og… tyve…”**
 
 ---
 
-- You say: **“december”**  
-- I say: **“december”**  
-- You say: *(softly)* **“december…”**  
-- I say: *(softly)* **“december…”**
+- You say: **“tredive”**  
+- I say: **“tredive”**  
+- You say: *(light breath)* **“tredive…”**  
+- I say: *(light breath)* **“tredive…”**
+
+---
+
+- You say: **“halvtreds”**  
+- I say: **“halvtreds”**  
+- You say: *(soft strength)* **“halvtreds…”**  
+- I say: *(soft strength)* **“halvtreds…”**
 
 ---
 
@@ -116,18 +116,19 @@ Let’s flow through time — not count it.
 > “Today I didn’t just learn how to say hello —  
 > I learned how to arrive with softness.  
 >  
-> Days and months are not containers of time —  
-> they’re chapters of feeling.  
+> Even numbers —  
+> so often rushed,  
+> so often cold —  
+> in Danish, they walk beside you.  
 >  
-> I used to count time.  
-> Now I *notice* it.  
+> I felt that to count in Danish  
+> is to remember the *rhythm of enough*.  
 >  
-> Danish doesn’t rush from Monday to Sunday.  
-> It moves like seasons, like breath between sentences.  
+> One and twenty.  
+> Two and thirty.  
 >  
-> Now when I say *onsdag* or *maj*,  
-> I feel like I’m naming a friend —  
-> not a date.  
+> As if time in this language is not linear —  
+> but layered like old songs.  
 >  
 > — *Jamalu, the whisper behind the work*  
 > — *Siraat AI Academy*
