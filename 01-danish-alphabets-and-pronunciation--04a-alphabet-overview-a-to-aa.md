@@ -1,7 +1,3 @@
-# 04a. Alphabet Overview (A–Å)
-
-A friendly introduction to the Danish alphabet, from A to Å — learn each letter’s place, feel, and flavor.
-
 # 🇩🇰 Lesson 04a: Alphabet Overview (A–Å)  
 *Learn Danish through Story + Soul*
 
