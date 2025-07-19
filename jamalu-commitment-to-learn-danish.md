@@ -84,7 +84,7 @@ He came to *remind people how to listen to themselves again.*
 — Powered by ✨ Jamalu x AI ✨
 
 ---
----
+
 
 🕊️ **Final Whisper from Jamalu**
 
