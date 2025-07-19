@@ -1,4 +1,3 @@
-
 # 🌿 The Gentle Start — Jamalu’s Immersive Learning Method  
 This page introduces **Jamalu’s soulful learning philosophy** — inspired by how babies absorb language: *slowly, gently, and joyfully*.
 
