@@ -1,6 +1,3 @@
-# 08. Mouth Movements & Accent
-
-Learn how your tongue, lips, and breath work together to form natural Danish pronunciation.
 # 🇩🇰 Lesson 08: Mouth Movements & Accent  
 *Learn Danish Through Story + Soul*
 
