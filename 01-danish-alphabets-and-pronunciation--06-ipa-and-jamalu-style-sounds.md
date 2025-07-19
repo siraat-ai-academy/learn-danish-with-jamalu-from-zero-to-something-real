@@ -1,7 +1,3 @@
-# 06. IPA & Jamalu-Style Sounds
-
-Use IPA (International Phonetic Alphabet) with Jamalu’s creative sound descriptions to get familiar with Danish tone.
-
 # 🇩🇰 Lesson 06: IPA & Jamalu-Style Sounds  
 *Learn Danish through Soul & Sound*
 
