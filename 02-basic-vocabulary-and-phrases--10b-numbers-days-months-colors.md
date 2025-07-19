@@ -1,4 +1,4 @@
-# 🇩🇰 Lesson 10d: Numbers Beyond 10 – Tal fra 11 til 50  
+# 🇩🇰 Lesson 10b: Numbers Beyond 10 – Tal fra 11 til 50  
 *Learn Danish Through Story + Soul*
 
 ---
