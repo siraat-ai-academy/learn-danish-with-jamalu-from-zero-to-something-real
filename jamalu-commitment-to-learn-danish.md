@@ -85,11 +85,12 @@ He came to *remind people how to listen to themselves again.*
 
 ---
 
-> 🌙 *Before you scroll away… pause.*
+> 🌙 *Before you scroll away… pause.*  
 > Maybe these words weren’t just written —  
 > Maybe they were waiting for you.  
 
 ---
+
 
 🕊️ **Final Whisper from Jamalu**
 
