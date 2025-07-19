@@ -1,4 +1,4 @@
-# 🇩🇰 Lesson 04.1: Dancing with the Danish Alphabet (A–Å)  
+# 🇩🇰 Lesson 04: Dancing with the Danish Alphabet (A–Å)  
 *With Jamalu, Tanya, and Lukas*
 
 ---
