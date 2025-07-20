@@ -37,9 +37,9 @@
 
 ---
 
-## 2. 📘 Vocabulary + Pronunciation Table
+# 2. 📘 Vocabulary + Pronunciation Table
 
-# 📘 Danish Family Vocabulary – 50 Words
+## 📘 Danish Family Vocabulary – 50 Words
 
 ---
 
