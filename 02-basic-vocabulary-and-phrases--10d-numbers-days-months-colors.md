@@ -1,130 +1,106 @@
-# 🇩🇰 Lesson 10d: Colors – Farver i Dansk  
-*Learn Danish Through Story + Soul*
+# 🌟 10d – Colors – Farver i Dansk  (Colors in Danish)
+## 🇩🇰 Learn Danish Through Story + Soul  
+🖌️ Painting the world with words — one color, one feeling, one soft stroke at a time.
+
+---
+
+## 🌱 Bonus Whisper at the Start:
+> “Today, we don’t just say colors — we invite their quiet presence into our voices.”  
+> _We place meaning on the tongue, softly — so every shade becomes part of our seeing._
 
 ---
 
 ## 1. 🧵 Emotional Story: The Lesson Through Dialogue
 
-**Scene: The three friends walk through the Botanical Garden in Aarhus.**  
-Golden hour sunlight filters through the trees.  
-Tanya sketches petals. Jamalu touches tree bark like he’s listening.  
-Lukas gently names the colors around them.
+**Scene: A sun-drenched patch of meadow by the sea. Jamalu holds a bundle of wildflowers — white daisies, blue cornflowers, red poppies. Tanya sketches their shapes in her notebook. Lukas kneels, gathering stems.**
 
-**Lukas**:  
-“Farver… colors.  
-In Danish, even colors are whispered.”
+**👤 Jamalu**, softly:  
+*“Colors feel different when you say them in Danish. They’re not just labels — they're invitations to notice.”*
 
-**Tanya** (pointing to a violet flower):  
-“What’s this one called?”
+**🎨 Tanya**, smiling as she draws:  
+*“Rød, blå, hvid… they hover softly on the paper, like petals landing.”*
 
-**Lukas**:  
-“*Lilla* — it means purple.  
-But say it like a memory. Not like a label.”
+**💬 Lukas**, arranging flowers:  
+*“Yes. Danish colors feel like nature speaking to you. Even ‘sort’ — black — feels like a quiet dusk, not darkness.”*
 
----
+**👤 Jamalu**, breathing in the scent:  
+*“And ‘grøn’ — green — feels like the first breath of spring.”*
 
-**Jamalu** (softly):  
-“So when I say *blå*, it’s not just blue —  
-it’s sky, silence, seafoam, sleep.”
+**🎨 Tanya**, tilting her head:  
+*“Teach me the words, Lukas. Not just how they sound — but how they feel.”*
 
-**Lukas**:  
-“Yes.  
-Danish colors are not loud.  
-They don’t demand. They *describe gently*.”
+**💬 Lukas**, holding up a blue cornflower:  
+*“Blå… like the Danish sky reflecting in water.”*
 
-He bends down and lifts a yellow leaf.
+He continues, voice gentle:  
+*“Lyserød — pink — like the first morning light. Brun — brown — like warm earth underfoot. Gul — yellow — like sun-lens on the skin.”*
 
-> “*Gul*,” he says.  
-> “But say it with light in your chest.”
+**👤 Jamalu**, quietly placing a flower in water:  
+*“I want to say them softly, like I’m seeing them for the first time.”*
 
----
-
-They walk on.
-
-Tanya begins collecting the names like she collects petals.
-
-> “Grøn… brun… rød…”
-
-**Lukas**:  
-“Speak them like you’d speak to someone waking from a dream.”
-
-**Jamalu** (smiling):  
-“Colors are the first words a child learns to trust.  
-Maybe that’s why they feel like lullabies.”
+**💬 Lukas**, nodding:  
+*“Then say them like that.”*
 
 ---
 
 ## 2. 📘 Vocabulary + Pronunciation Table
 
-| Danish Word | English Meaning | Pronunciation (Jamalu-style)              |
-|-------------|------------------|-------------------------------------------|
-| blå         | blue             | "blaw", ends like a sigh                   |
-| rød         | red              | "ruhth", round lips, fading ‘d’            |
-| grøn        | green            | "gruhn", soft ‘r’ in the throat            |
-| gul         | yellow           | "gool", bright but not sharp               |
-| hvid        | white            | "veel", yes — 'h' is often silent          |
-| sort        | black            | "sohrt", crisp but not harsh               |
-| lilla       | purple           | "lee-lah", like a lullaby                  |
-| brun        | brown            | "broon", warm and round                    |
-| lyserød     | pink             | "lu-suh-ruhl", soft light red              |
-| grå         | grey             | "graw", deep and quiet                     |
+| Danish Word | English Meaning    | Pronunciation (Jamalu‑style) | Roman Urdu/Hindi (اردو ترجمہ)                           |
+|-------------|---------------------|------------------------------|---------------------------------------------------------|
+| rød         | red                 | *ruhl*                       | ruhl → laal (لال)                                       |
+| blå         | blue                | *bloh*                       | bloh → neela (نیلا)                                     |
+| grøn        | green               | *gruhn*                      | gruhn → sabz (سبز)                                      |
+| gul         | yellow              | *gool*                       | gool → peela (پیلا)                                     |
+| sort        | black               | *sohrt*                      | sohrt → kala (کالا)                                     |
+| hvid        | white               | *veeth*                      | veeth → safed (سفید)                                    |
+| brun        | brown               | *broon*                      | broon → bhoora (بھورا)                                  |
+| grå         | gray                | *groh*                       | groh → soora (سورا)                                     |
+| lyserød     | pink                | *loo-se-rohl*                | loo-se-rohl → gulabi (گلابی)                            |
+| lilla       | purple              | *lil-la*                     | lil-la → baingani (بینگنی)                              |
+| orange      | orange              | *o‑ranj*                     | o‑ranj → narangi (نارنجی)                               |
+| beige       | beige               | *be-zhe*                     | be-zhe → beige (بیج)                                    |
+| turkis      | turquoise           | *tur-kees*                   | tur-kees → firuzi (فیروزی)                              |
+| lyseblå     | light blue          | *lyse-bloh*                  | lyse-bloh → halke neele (ہلکے نیلے)                    |
+| mørkeblå    | dark blue           | *mur-ke‑bloh*                | mur-ke‑bloh → gehre neele (گہرے نیلے)                  |
+| lys grøn    | light green         | *lus gruhn*                  | lus gruhn → halke sabz (ہلکے سبز)                       |
+| mørkegrøn   | dark green          | *mur-ke gruhn*               | mur-ke gruhn → gehre sabz (گہرے سبز)                    |
+| lysegul     | light yellow        | *lyse-gool*                  | lyse-gool → halke peele (ہلکے پیلے)                    |
+| mørkgul     | dark yellow         | *mur-ke gool*                | mur-ke gool → gehre peele (گہرے پیلے)                  |
+| kastanjebrun| chestnut brown      | *kas-tan-yeh-broon*          | kas-tan-yeh-broon → kastanje bhoora (کستنئیے بھورا)     |
 
 ---
 
 ## 3. 🔁 Gentle Repetition Practice
 
-Feel the colors on your tongue — not just as words, but as warmth.
+- You say: “Rød, blå, grøn.” _(ruhl, bloh, gruhn → laal، نیلا، سبز)_  
+- I say: “Gul, sort, hvid.” _(gool, sohrt, veeth → peela، کالا، سفید)_  
+_(Repeat gently twice)_
 
-- You say: **“blå”**  
-- I say: **“blå”**  
-- You say: *(like the sea)* **“blå…”**  
-- I say: *(like the sea)* **“blå…”**
+- You say: “Lyserød, lilla, orange.” _(loo-se-rohl، lil‑la، o‑ranj → گلابی، بیگنی، نارنجی)_  
+- I say: “Brun, grå, beige.” _(broon، groh، be‑zhe → بھورا، سورا، بیج)_  
+_(Repeat softly)_
 
----
-
-- You say: **“rød”**  
-- I say: **“rød”**  
-- You say: *(gently)* **“rød…”**  
-- I say: *(gently)* **“rød…”**
-
----
-
-- You say: **“grøn”**  
-- I say: **“grøn”**  
-- You say: *(like leaves in wind)* **“grøn…”**  
-- I say: *(like leaves in wind)* **“grøn…”**
-
----
-
-- You say: **“lilla”**  
-- I say: **“lilla”**  
-- You say: *(like a bedtime hum)* **“lilla…”**  
-- I say: *(like a bedtime hum)* **“lilla…”**
+- You say: “Turkis, lyseblå, mørkeblå.” _(tur-kees، lyse-bloh، mur-ke-bloh → فیروزی، ہلکا نیلا، گہرا نیلا)_  
+- I say: “Lys grøn, mørkegrøn.” _(lus gruhn، mur-ke gruhn → ہلکا سبز، گہرا سبز)_  
+_(One more mindful round)_
 
 ---
 
 ## 4. ✍️ Soul Reflection
 
-> “Today I didn’t just learn how to say hello —  
-> I learned how to arrive with softness.  
->  
-> And when I learned the colors,  
-> I didn’t just name things.  
->  
-> I *noticed* them.  
->  
-> I felt that in Danish,  
-> color isn’t only seen — it’s spoken gently.  
->  
-> A blue isn’t just *blå*.  
-> It’s a moment you give to someone else with your voice.  
->  
-> Even grey — *grå* — carries grace.  
->  
-> I didn’t just learn the palette.  
-> I learned presence.  
->  
+> “Today, I didn’t just learn names of colors —  
+> I learned how to taste light and shadow with my tongue.  
+> Each color taught me how soft language can be…  
+> each shade a tender story.”
+
+> — “Seeing isn’t just using your eyes. It’s listening with your words.”  
 > — *Jamalu, the whisper behind the work*  
 > — *Siraat AI Academy*
 
 ---
+
+## 🌟 File Ending
+
+> “Real pronunciation isn’t in the tongue — it’s in the intention.”  
+> — Jamalu, whisper behind the work  
+> — Siraat AI Academy
