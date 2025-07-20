@@ -1,4 +1,4 @@
-🌟 **Lesson 66 – Clothing and Accessories Vocabulary 👗🧣**  
+# 🌟 **Lesson 66 – Clothing and Accessories Vocabulary 👗🧣**  
 🇩🇰 Learn Danish Through Story + Soul  
 In every thread, a story — in every outfit, a whispered expression.
 
