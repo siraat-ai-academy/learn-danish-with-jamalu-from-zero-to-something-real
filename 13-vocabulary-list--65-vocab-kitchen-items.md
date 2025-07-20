@@ -1,70 +1,69 @@
-# 🌟 65 – Kitchen Items Vocabulary  
-## 🇩🇰 Learn Danish Through Story + Soul  
-🍽️ 50 essential Danish kitchen words with English meaning and Jamalu-style pronunciation.
+# 🌟 Lesson 65 – Kitchen Items Vocabulary 🍽️  
+🇩🇰 Learn Danish Through Story + Soul  
+A kitchen sings in many tongues — here are 50 soft-spoken names it whispers.
 
 ---
 
-> “Today, we don’t just list words —  
-> we place meaning on the tongue, softly.”
+“Today, we don’t just name utensils —  
+we bring warmth to the words that stir our daily rituals.”
+
+| Danish Word         | English Meaning     | Pronunciation (Jamalu-style)         | Roman Urdu-Hindi             |
+|---------------------|---------------------|--------------------------------------|-------------------------------|
+| gryde               | pot                 | **groo-deh** (like "groove + deh")   | bartan (برتن)                  |
+| pande               | pan                 | **pan-deh** (soft like "panda")      | tawe (توا)                     |
+| kniv                | knife               | **k-neev** (whispered "k")           | chaku (چاقو)                  |
+| gaffel              | fork                | **gaf-uhl** (like "café + ull")      | kaanta (کانٹا)                 |
+| ske                 | spoon               | **skay** (rhymes with "play")        | chamach (چمچ)                 |
+| tallerken           | plate               | **tal-ler-ken** (gentle rhythm)      | plate (پلیٹ)                   |
+| skål                | bowl                | **skoal** (like “soul”)              | katori (کٹوری)                |
+| kop                 | cup                 | **kup** (short and warm)             | cup (کپ)                       |
+| glas                | glass               | **glas** (like "class")              | glass (گلاس)                  |
+| krus                | mug                 | **kroos** (like "cruise")            | mug (مگ)                       |
+| kedel               | kettle              | **keh-del** (like “petal”)           | ketli (کیٹلی)                  |
+| kande               | jug/pitcher         | **kan-deh** (soft "can")             | jug (جاگ)                      |
+| brødrister          | toaster             | **brur-ris-ter** (bubbly)            | toaster (ٹوَسٹر)              |
+| ovn                 | oven                | **own** (as in “own home”)           | oven (اووَن)                   |
+| komfur              | stove               | **kom-fyoor** (like "comfort + your")| choola (چُولا)                |
+| køleskab            | fridge              | **kool-es-kab** (cool escape)        | fridge (فریج)                  |
+| fryser              | freezer             | **free-sor** (like "free + sir")     | freezer (فریزر)               |
+| mikroovn            | microwave           | **mee-kroh-own** (tiny oven dream)   | microwave (مائیکروویو)         |
+| vask                | sink                | **vahsk** (like “mask” with a V)     | sink (سنک)                     |
+| skærebræt           | cutting board       | **skehr-eh-brat** (soft snap)        | kaatne ki takhti (کٹنے کی تختی) |
+| si                  | sieve               | **see** (like “see through”)         | chhalni (چھلنی)                |
+| dørslag             | colander            | **dur-slag** (like "door + slag")    | chhalni (چھلنی)                |
+| grydehandsker       | oven mitts          | **groo-deh-hans-ker**                | hath-dastane (ہاتھ دستانے)     |
+| låg                 | lid                 | **loh** (like “low”)                 | dhakkan (ڈھکن)                 |
+| dåse                | can (tin)           | **doh-seh** (soft “dose”)            | dabba (ڈبہ)                   |
+| flaske              | bottle              | **fla-skeh** (flowing)               | bottle (بوتل)                 |
+| pose                | bag                 | **poo-seh** (like “purse”)           | thaila (تھیلا)                 |
+| serviet             | napkin              | **ser-vee-et** (delicate)            | napkin (رومال)                |
+| bord                | table               | **bohrd** (like “bored” with purpose)| mez (میز)                     |
+| stol                | chair               | **stol** (soft, round)               | kursi (کرسی)                  |
+| skuffe              | drawer              | **skoo-feh** (like "scoof")          | drawer (دَراوَر)              |
+| hylde               | shelf               | **hyool-deh** (light lilt)           | shelf (شیلف)                  |
+| dåseåbner           | can opener          | **doh-seh-ohb-ner** (slow melody)    | dabba kholne waala (ڈبہ کھولنے والا) |
+| proptrækker         | corkscrew           | **prop-track-er** (twist gently)     | bottle kholne waala (بوتل کھولنے والا) |
+| viskestykke         | dish towel          | **vis-keh-stuh-keh** (whisper clean) | bartan pochne ka kapra (برتن پونچھنے کا کپڑا) |
+| opvaskemiddel       | dish soap           | **op-vask-eh-mid-del**               | bartan sabun (برتن صابن)      |
+| opvaskebørste       | dish brush          | **op-vask-eh-burst-eh**              | bartan brush (برتن برش)       |
+| køkkenrulle         | paper towel         | **kur-ken-roo-leh**                  | paper towel (پیپر ٹاول)       |
+| køkkenvægt          | kitchen scale       | **kur-ken-vaygt**                    | wazan tolne wala (وزن تولنے والا) |
+| skraldespand        | trash bin           | **skral-deh-spand**                  | kachra daan (کچرا دان)         |
+| plastfolie          | plastic wrap        | **plas-toh-lee-eh**                  | plastic sheet (پلاسٹک شیٹ)    |
+| alufolie            | foil                | **ah-loo-foh-lee-eh**                | foil (فائل)                   |
+| bagepapir           | baking paper        | **bay-eh-pah-peer**                  | baking paper (بیکنگ پیپر)     |
+| røremaskine         | mixer               | **rur-eh-mah-skeen-eh**              | mixer (مکسر)                  |
+| blender             | blender             | **blen-dur**                         | blender (بلینڈر)              |
+| køkkenmaskine       | kitchen machine     | **kur-ken-mah-skeen-eh**             | kitchen machine (کچن مشین)    |
+| målebæger           | measuring cup       | **moh-leh-bay-er**                   | naapne ka cup (ناپنے کا کپ)   |
+| termometer          | thermometer         | **ter-moh-meh-ter**                  | thermometer (تھرمامیٹر)        |
+| køkkenkniv          | kitchen knife       | **kur-ken-kneev**                    | kitchen chaku (کچن چاقو)      |
 
 ---
 
-| Danish Word     | English Meaning       | Pronunciation (Jamalu-style)     | Roman Urdu Pronunciation      |
-|------------------|------------------------|----------------------------------|-------------------------------|
-| tallerken        | plate                  | *tal-LEHR-ken*                   | taalerkan                     |
-| glas             | glass                  | *glahs*                          | glaas                         |
-| kop              | cup                    | *kohp*                           | kap                           |
-| ske              | spoon                  | *skay*                           | chamach                       |
-| gaffel           | fork                   | *GAH-fel*                        | kaanta                        |
-| kniv             | knife                  | *kneeu*                          | chaaku                        |
-| skål             | bowl                   | *skohl*                          | katora                        |
-| gryde            | pot                    | *GRÜ-the*                        | bartan                        |
-| pande            | pan                    | *PAN-eh*                         | fry pan                       |
-| ovn              | oven                   | *own*                            | oven                          |
-| kogeplade        | stovetop               | *KO-eh-plah-the*                 | stove                         |
-| køleskab         | fridge                 | *KUR-leh-skab*                   | fridge                        |
-| fryser           | freezer                | *FREE-sur*                       | freezer                       |
-| skraldespand     | trash can              | *SKRAL-leh-spand*                | kachra daan                   |
-| opvaskemaskine   | dishwasher             | *OP-vas-keh-mah-skee-neh*        | bartan dhoone wali machine    |
-| mikrobølgeovn    | microwave              | *MEEK-ro-bøl-yeh-ovn*            | microwave                     |
-| elkedel          | electric kettle        | *EL-keh-thel*                    | electric kettle               |
-| brødrister       | toaster                | *BRUR-ris-ter*                   | toaster                       |
-| skærebræt        | cutting board          | *SKAY-er-brat*                   | cutting board                 |
-| dåseåbner        | can opener             | *DOH-seh-urp-ner*                | can kholne wala               |
-| proptrækker      | corkscrew              | *PROPP-trek-er*                  | bottle kholne wala            |
-| rivejern         | grater                 | *REE-veh-yern*                   | kaddukas                      |
-| dørslag          | strainer               | *DUR-slah*                       | chhanni                       |
-| bagepapir        | baking paper           | *BAH-geh-pah-peer*               | baking kaghaz                 |
-| bageplade        | baking tray            | *BAH-geh-plah-the*               | baking tray                   |
-| kasserolle       | saucepan               | *KAS-er-roll-eh*                 | sauce pan                     |
-| viskestykke      | dish towel             | *VIS-keh-stu-keh*                | bartan ponchnay wala kapra    |
-| bord             | table                  | *bohr*                           | mez                           |
-| stol             | chair                  | *stohl*                          | kursi                         |
-| skab             | cupboard               | *skahb*                          | almari                        |
-| hylde            | shelf                  | *HUEL-leh*                       | shelf                         |
-| mad              | food                   | *mel-th*                         | khana                         |
-| vand             | water                  | *van*                            | pani                          |
-| mælk             | milk                   | *melk*                           | doodh                         |
-| kaffe            | coffee                 | *KAH-feh*                        | coffee                        |
-| te               | tea                    | *tay*                            | chai                          |
-| sukker           | sugar                  | *SUK-er*                         | cheeni                        |
-| salt             | salt                   | *sahlt*                          | namak                         |
-| peber            | pepper                 | *PEH-bor*                        | kali mirch                    |
-| olie             | oil                    | *OHL-yeh*                        | tail                          |
-| eddike           | vinegar                | *ETH-e-keh*                      | sirka                         |
-| tallerkenholder  | plate rack             | *tal-LEHR-ken-hol-der*           | taalerkan rakhne wala stand   |
-| serviet          | napkin                 | *ser-vee-ET*                     | napkin                        |
-| låg              | lid                    | *loh*                            | dhakkan                       |
-| målebæger        | measuring cup          | *MOH-leh-bay-er*                 | naapne ka pyala               |
-| røreske          | stirring spoon         | *RUR-eh-skay*                    | hilane wala chamach           |
-| ovnhandsker      | oven mitts             | *OWN-handsk-er*                  | oven gloves                   |
-| køkkenbord       | kitchen counter        | *KUK-en-bohrd*                   | kitchen ka slab               |
-| krydderier       | spices                 | *KRUH-thur-ee-er*                | masalay                       |
+“Today I didn’t just learn words —  
+I tasted the world in a new rhythm.  
+The kitchen became a poem, and Danish its gentle verse.”
 
----
-
-> “Today I didn’t just name the objects in my kitchen —  
-> I tasted language in every corner of my home.”
-
-> — *Jamalu, whisper behind the work*  
-> — *Siraat AI Academy*
+— Jamalu, whisper behind the work  
+— Siraat AI Academy
