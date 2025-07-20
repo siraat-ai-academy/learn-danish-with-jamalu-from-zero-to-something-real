@@ -41,7 +41,8 @@
 
 ---
 
-# Group: To Be & Existence
+# Group: To Be & Existence → At være & Eksistens → aht veh-rah & ek-sis-tehns → hona aur mojoodgi (ہونا اور موجودگی)
+
 
 | Danish    | English      | Pronunciation (Jamalu‑style)   | Roman-Urdu (اردو ترجمہ)                   |
 |:----------|:-------------|:-------------------------------|:------------------------------------------|
