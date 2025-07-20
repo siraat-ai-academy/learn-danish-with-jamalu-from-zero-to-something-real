@@ -1,74 +1,69 @@
-# 🇩🇰 73 – School and Education Vocabulary  
-### Learn Danish Through Story + Soul
+# 🌟 **Lesson 73 – School and Education Vocabulary 📚🏫**  
+🇩🇰 Learn Danish Through Story + Soul  
+From pencil tips to graduation caps — Danish words to shape a learner’s world.
 
 ---
 
-> “Today, we don’t just list words —  
-> we unlock the quiet power of learning itself.”  
->  
-> We place meaning on the tongue, softly.
+“Today, we don’t just list school words —  
+we gather the language of growth, softly stacked like books on a shelf.”
+
+| Danish Word       | English Meaning         | Pronunciation (Jamalu-style)       | Roman Urdu-Hindi               |
+|-------------------|--------------------------|------------------------------------|--------------------------------|
+| skole             | school                   | **sko-leh** (place of beginnings)  | school (سکول)                  |
+| klasse            | class                    | **kla-seh** (soft circle)          | class (کلاس)                  |
+| elev              | student                  | **eh-lehv** (rising tone)          | talib-e-ilm (طالبعلم)         |
+| lærer             | teacher                  | **leh-rer** (guiding voice)        | ustad (استاد)                 |
+| undervisning      | teaching / instruction   | **un-der-vees-ning**               | taleem (تعلیم)                |
+| lektier           | homework                 | **lek-tee-er**                     | ghar ka kaam (گھر کا کام)     |
+| tavle             | blackboard / whiteboard  | **tav-leh** (word wall)            | takhti (تختی)                 |
+| kridt             | chalk                    | **kreet** (dust of learning)       | chalk (چاک)                   |
+| blyant            | pencil                   | **blee-ant** (light lead)          | pencil (پنسل)                 |
+| kuglepen          | pen                      | **koo-gleh-pen** (circle pen)      | pen (قلم)                     |
+| papir             | paper                    | **pah-peer** (soft sheet)          | kaghaz (کاغذ)                 |
+| notesbog          | notebook                 | **noh-tes-boh** (note whisper)     | notebook (نوٹ بک)             |
+| hæfte             | exercise book            | **hef-teh**                        | register / kaapi (کاپی)        |
+| mappe             | folder                   | **mah-peh**                        | file (فائل)                   |
+| bord              | desk / table             | **bohrd**                          | mez (میز)                     |
+| stol              | chair                    | **stol** (sit soft)                | kursi (کرسی)                  |
+| skoletaske        | schoolbag                | **sko-leh-tas-keh**                | school bag (سکول بیگ)         |
+| bog               | book                     | **boh** (like “bough”)             | kitaab (کتاب)                 |
+| bibliotek         | library                  | **bee-blee-oh-tek**                | kutub khana (کتب خانہ)         |
+| læse              | to read                  | **lay-seh** (like “listen softly”) | parhna (پڑھنا)                |
+| skrive            | to write                 | **skree-veh**                      | likhna (لکھنا)                |
+| lære              | to learn / teach         | **leh-reh**                        | seekhna / parhana (سیکھنا)     |
+| eksamen           | exam                     | **ek-sah-men**                     | imtihaan (امتحان)             |
+| prøve             | test                     | **proo-veh**                       | test (ٹیسٹ)                   |
+| spørgsmål         | question                  | **spors-mawl**                     | sawaal (سوال)                 |
+| svar              | answer                   | **svar**                           | jawab (جواب)                  |
+| karakter          | grade / mark             | **kar-ak-tehr**                    | number / grade (نمبر)         |
+| universitet       | university               | **oo-nee-ver-see-teht**            | university (یونیورسٹی)       |
+| gymnasium         | high school              | **gyoom-nay-syum**                 | college (کالج)                |
+| skolegård         | schoolyard               | **sko-leh-gor**                    | school ka aangan (سکول کا آنگن)|
+| lektion           | lesson                   | **lek-syon**                       | sabak (سبق)                  |
+| fag               | subject                  | **fai** (as in “fate”)             | mazmoon (مضمون)              |
+| matematik         | mathematics              | **mah-teh-mah-teek**               | hisaab (حساب)                |
+| historie          | history                  | **his-toh-ree-eh**                 | tareekh (تاریخ)               |
+| naturfag          | science (natural subject)| **na-toor-fai**                    | science (سائنس)               |
+| geografi          | geography                | **geo-grah-fee**                   | jughraafiya (جغرافیہ)         |
+| sprog             | language                 | **spror** (like “s-proar”)         | zubaan (زبان)                 |
+| dansk             | Danish                   | **dan-sk**                         | Danish (ڈینش)                 |
+| engelsk           | English                  | **eng-elsk**                       | angrezi (انگریزی)             |
+| frikvarter        | break / recess           | **freek-var-tehr**                 | break (وقفہ)                  |
+| time              | class period             | **tee-meh**                        | period (پیریڈ)                |
+| klasserum         | classroom                | **klass-er-room**                  | class ka kamra (کلاس کا کمرہ) |
+| projekt           | project                  | **proh-yekt**                      | project (پروجیکٹ)             |
+| opgave            | assignment / task        | **op-gah-veh**                     | kaam / homework (کام)         |
+| skolelærer        | schoolteacher            | **sko-leh-leh-rer**                | school ka ustad (استاد)       |
+| klassekammerat    | classmate                | **klas-seh-ka-mah-rat**            | class fellow (کلاس فیلو)      |
+| tavlesvamp        | board eraser             | **tav-leh-svamp**                  | takhti saaf karne wala (صاف کرنے والا) |
+| skrivebord        | writing desk             | **skree-veh-bohrd**                | likhne ka mez (لکھنے کا میز)  |
+| elevråd           | student council          | **eh-lehv-rohd**                   | talaba council (طلبہ کونسل)   |
 
 ---
 
-From classroom whispers to university lectures, these are the Danish words that shape the journey of every gentle learner.
+“Today I didn’t just learn words —  
+I opened the book of understanding,  
+and let Danish write softly across my mind.”
 
-| Danish Word     | English Meaning      | Pronunciation (Jamalu-style) | Roman Urdu            |
-|------------------|-----------------------|-------------------------------|------------------------|
-| skole            | school                | *SKOH-leh*                    | school                 |
-| universitet      | university            | *oo-nee-ver-see-TAYT*         | university             |
-| klasse           | class                 | *KLA-seh*                     | class                  |
-| lærer            | teacher               | *LAY-er*                      | ustaad                 |
-| elev             | student               | *eh-LEEV*                     | talib-e-ilm            |
-| lektion          | lesson                | *lek-SYON*                    | sabaq                  |
-| bog              | book                  | *boh*                         | kitaab                 |
-| blyant           | pencil                | *BLEW-yant*                   | pencil                 |
-| kuglepen         | pen                   | *KOO-leh-pen*                 | pen                    |
-| papir            | paper                 | *pa-PEER*                     | kaagaz                 |
-| tavle            | board (chalkboard)    | *TOW-leh*                     | takhti                 |
-| hæfte            | notebook              | *HEF-teh*                     | notebook               |
-| opgave           | assignment/task       | *OP-gow-veh*                  | kaam                   |
-| eksamen          | exam                  | *ek-SA-men*                   | imtihaan               |
-| karakter         | grade/marks           | *ka-rak-TER*                  | numbre                 |
-| spørgsmål        | question              | *SPORS-mohl*                  | sawaal                 |
-| svar             | answer                | *svar*                        | jawab                  |
-| læse             | to read               | *LAY-seh*                     | parhna                 |
-| skrive           | to write              | *SKREE-veh*                   | likhna                 |
-| lytte            | to listen             | *LYT-teh*                     | sun'na                 |
-| tale             | to speak              | *TAY-leh*                     | bolna                  |
-| forstå           | to understand         | *for-STAW*                    | samajhna               |
-| lære             | to learn              | *LAY-reh*                     | seekhna                |
-| undervise        | to teach              | *UN-der-vee-seh*              | padhana                |
-| frikvarter       | break/recess          | *FREEK-var-tayr*              | break                  |
-| bibliotek        | library               | *bib-lee-oh-TEK*              | kitaab ghar            |
-| aflevering       | submission            | *ahv-leh-VEHR-ing*            | jama karwana           |
-| studie           | study (noun)          | *STOO-dee-eh*                 | mutaala                |
-| lektier          | homework              | *LEK-sher*                    | homework               |
-| kursus           | course                | *KOOR-sus*                    | course                 |
-| diplom           | diploma               | *dee-PLOM*                    | sanad                  |
-| eksamensbevis    | exam certificate      | *ek-SA-mens-be-VEES*          | certificate            |
-| skema            | schedule/timetable    | *SKEH-mah*                    | waqt ka jaadwal        |
-| pause            | pause/break           | *POW-seh*                     | waqfa                  |
-| aflevering       | delivery/submission   | *AHV-leh-vehr-ing*            | jama karna             |
-| skrivebord       | desk                  | *SKREE-veh-bord*              | mez                    |
-| stol             | chair                 | *stohl*                       | kursi                  |
-| klassekammerat   | classmate             | *KLA-seh-ka-mah-RAT*          | class fellow           |
-| lærerinde        | female teacher        | *LAY-er-in-neh*               | ustaaza                |
-| skoletaske       | school bag            | *SKOH-leh-task-eh*            | school bag             |
-| færdigheder      | skills                | *FAIR-dee-heh-der*            | skills                 |
-| uddannelse       | education             | *OOD-dan-eh-leh-seh*          | taleem                 |
-| karakterblad     | report card           | *ka-rak-TER-blath*            | report card            |
-| disciplin        | discipline            | *dee-sip-LEEN*                | tahzeeb / nizam        |
-| prøve            | test/quiz             | *PROH-veh*                    | test                   |
-| tavlekridt       | chalk                 | *TOW-leh-krit*                | chalk                  |
-| skolegård        | school yard           | *SKOH-leh-gor*                | school ka aangan       |
-| gruppearbejde    | group work            | *GROOP-eh-ar-bai-deh*         | group ka kaam          |
-| formidling       | presentation/sharing  | *for-MEED-ling*               | peshkash               |
-| karakterer        | grades/marks (plural) | *ka-rak-TER-er*               | numbre                 |
-
----
-
-> “Today I didn’t just learn school words —  
-> I remembered why I still believe in slow, sacred learning.”
-
-> — *Jamalu, the whisper behind the work*  
-> — *Siraat AI Academy*
+— Jamalu, whisper behind the work  
+— Siraat AI Academy
