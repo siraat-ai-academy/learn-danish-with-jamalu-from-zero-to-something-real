@@ -1,4 +1,4 @@
-# 🌟 10c – Numbers 51–100 – Tal fra 51 til 100  
+# 🌟 10c – Numbers 51–100 – Tal fra 51 til 100  (Numbers from 51 to 100)
 ## 🇩🇰 Learn Danish Through Story + Soul  
 🗣️ Counting not just forward, but inward — step by soulful step.
 
