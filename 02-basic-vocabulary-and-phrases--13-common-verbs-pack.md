@@ -43,13 +43,13 @@
 
 # Group: To Be & Existence
 
-| Danish | English | Roman-Urdu (اردو ترجمہ) |
-|--------|---------|--------------------------|
-| være | to be | veh-rah → hona *(ہونا)* |
-| blive | to become | blee-veh → banna *(بننا)* |
-| eksistere | to exist | ek-sis-teh-rah → mojood hona *(موجود ہونا)* |
-| leve | to live | leu-veh → jeena *(جینا)* |
-| hedde | to be called | heh-theh → keh-lana *(کہلانا)* |
+| Danish    | English      | Pronunciation (Jamalu‑style)   | Roman-Urdu (اردو ترجمہ)                   |
+|:----------|:-------------|:-------------------------------|:------------------------------------------|
+| være      | to be        | veh-rah                        | veh-rah → hona (ہونا)                     |
+| blive     | to become    | blee-veh                       | blee-veh → banna (بننا)                   |
+| eksistere | to exist     | ek-sis-teh-rah                 | ek-sis-teh-rah → mojood hona (موجود ہونا) |
+| leve      | to live      | leu-veh                        | leu-veh → jeena (جینا)                    |
+| hedde     | to be called | heh-theh                       | heh-theh → keh-lana (کہلانا)              |
 
 # Group: To Have & Ownership
 
