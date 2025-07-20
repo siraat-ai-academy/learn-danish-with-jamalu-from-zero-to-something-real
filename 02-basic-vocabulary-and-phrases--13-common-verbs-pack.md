@@ -37,7 +37,7 @@
 
 ---
 
-# 2. 📘 Vocabulary + Pronunciation Table
+## 2. 📘 Vocabulary + Pronunciation Table
 
 
 | Group | Danish Word | English Meaning | Pronunciation (Jamalu-style) | Roman Urdu/Hindi (اردو ترجمہ) |
