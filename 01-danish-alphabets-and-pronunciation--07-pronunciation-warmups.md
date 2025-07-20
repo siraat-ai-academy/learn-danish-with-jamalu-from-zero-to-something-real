@@ -1,149 +1,112 @@
-# 🇩🇰 Lesson 07: Pronunciation Warm-ups  
-*Learn Danish Through Story + Soul*
+# 🌟 07 – Pronunciation Warm-ups  
+## 🇩🇰 Learn Danish Through Story + Soul  
+🗣️ Warming up your mouth, heart, and habits — one sound at a time.
+
+---
+
+## 🌱 Bonus Whisper at the Start:
+> “Today, we don’t just repeat sounds — we shape trust with our tongue, gently through breath and rhythm.”  
+> _We place meaning on the tongue, softly, like a sunrise humming from the chest._
 
 ---
 
 ## 1. 🧵 Emotional Story: The Lesson Through Dialogue
 
-**Scene: A quiet park in the morning.**  
-Leaves rustle gently. The grass is still damp with dew.  
-Tanya stretches her arms toward the sky.  
-Jamalu walks barefoot in the grass.  
-Lukas arrives with three warm cups of herbal tea.
+**Scene: A still morning in a wooden cabin by the sea. The tide is slow. A kettle whistles. Jamalu is practicing in front of a small mirror. Tanya sketches the waves. Lukas lights a candle.**
 
-**Lukas** (smiling):  
-“Before we speak Danish, we have to *become soft enough* to receive it.  
-The language doesn’t come from the tongue — it comes from breath.”
+**👤 Jamalu**, voice barely above a whisper:  
+*“I keep saying the words, Lukas… but they feel stiff. Like I’m imitating, not inhabiting.”*
 
-**Tanya** (stretching her jaw):  
-“Like yoga… but for the mouth?”
+**🎨 Tanya**, turning to him:  
+*“Like painting with someone else’s brush?”*
 
-**Lukas** (nodding):  
-“Yes. Think of it as *language yoga*.  
-A way to invite Danish in.”
+**💬 Lukas**, kneeling by the mirror:  
+*“Danish doesn’t want to be copied. It wants to be felt. You need to warm up the space where sound is born.”*
 
-**Jamalu** (whispering):  
-“I’ve noticed… when I rush into Danish, it resists.  
-But when I *prepare*… it melts into me.”
+He gestures toward his own body:  
+*“Here, in the mouth… yes. But also here—”*  
+(He touches his chest.)  
+*“And here—”*  
+(He places a hand near his belly.)
 
----
+**👤 Jamalu**, curious:  
+*“So... it’s not about the exact sound first?”*
 
-Lukas pulls out a small notebook.  
-He’s written a short list:
+**💬 Lukas**, shaking his head with a smile:  
+*“No. It’s about readiness. About allowing softness into your face. Letting the tongue stretch, gently. Like waking up language.”*
 
-> 🌀 Breathe in through the nose.  
-> 🌀 Hum gently — feel the vibration in your lips.  
-> 🌀 Whisper the vowels: A… E… I… O… U… Y… Æ… Ø… Å…  
-> 🌀 Let each one stretch the shape of your face.
+**🎨 Tanya**, eyes wide:  
+*“So even pronunciation is a kind of kindness?”*
 
-**Lukas** (guiding):  
-“Let’s begin with breath.  
-Inhale for 4… hold… exhale like a Danish vowel — soft and round.”
+**👤 Jamalu**, breathing in:  
+*“I’ve been trying to sound Danish. But now, I just want to sound *gentle*.”*
 
-They all close their eyes.  
-The city fades. All that remains is wind and vowel.
-
----
-
-**Tanya**:  
-“Sometimes I feel silly making these sounds.”
-
-**Lukas** (softly):  
-“Silly is sacred.  
-The Danish ‘R’ lives in the throat.  
-To make it, you have to *surrender* a little.”
-
-**Jamalu** (smiling with closed eyes):  
-“Every sound is a key. But the mouth is the door.  
-These warm-ups… unlock it.”
-
-**Lukas**:  
-“Try this: say ‘Hej’ three times —  
-once with tension, once with ease, once like a feather.”
-
-They do.
-
-**Hej.**  
-**Hej.**  
-**Hej…**
-
----
-
-They laugh quietly.
-
-A couple passes by with a dog. The woman says “Godmorgen.”  
-Tanya smiles and replies — not from her lips,  
-but from her breath.
+**💬 Lukas**, quietly:  
+*“And that, Jamalu, is how you begin.”*
 
 ---
 
 ## 2. 📘 Vocabulary + Pronunciation Table
 
-| Danish Word | English Meaning     | Pronunciation (Jamalu-style)             |
-|-------------|---------------------|------------------------------------------|
-| hej         | hello               | like "hi", but lighter, like a feather   |
-| tak         | thank you           | like "tuck", with warmth                 |
-| øve         | to practice         | "uh-vuh", round and foggy                |
-| tale        | to speak            | "ta-leh", soft 'l' and falling end       |
-| stemme      | voice               | "steh-meh", light and breathy            |
-| åbne        | to open             | "awb-neh", from the belly                |
-| ånde        | to breathe          | "awn-eh", like wind through reeds        |
-| rolig       | calm                | "roh-lee", soft ‘g’ like a breath        |
-| lyde        | sounds              | "lyoo-the", lips rounded, airy           |
-| morgen      | morning             | "mor-en", let the 'g' disappear softly   |
+| Danish Word | English Meaning | Pronunciation (Jamalu-style) | Roman Urdu/Hindi (اردو ترجمہ)             |
+|-------------|------------------|------------------------------|-------------------------------------------|
+| hej         | hello            | like “hi”, soft and warm     | hello (ہیلو)                              |
+| tak         | thank you        | like “tuck”, but with love   | shukriya (شکریہ)                          |
+| ja          | yes              | yah (whispered agreement)    | haan (ہاں)                                |
+| nej         | no               | nai (kindly, not cold)       | nahi (نہیں)                               |
+| undskyld    | excuse me/sorry  | oon-skool, with humility     | maaf kijiyega (معاف کیجیے گا)            |
+| værsgo      | here you go      | vares-go, soft ‘s’           | lijiye (لیجیے)                            |
+| godmorgen   | good morning     | goh-morn, like a stretch     | subah bakhair (صبح بخیر)                 |
+| godnat      | good night       | goh-nat, like tucking a word | shab bakhair (شب بخیر)                   |
+| farvel      | goodbye          | far-vel, like letting go     | alvida (الوداع)                           |
+| vi ses      | see you          | vee-ses, light and true      | phir milenge (پھر ملیں گے)               |
+| hvad        | what             | veh (not ‘what?!’—gentle)    | kya (کیا)                                 |
+| hvordan     | how              | vor-dan                     | kaise (کیسے)                              |
+| du          | you              | doo (like asking kindly)     | tum/aap (تم/آپ)                           |
+| jeg         | I / me           | yai (from the chest)         | mein (میں)                                |
+| elsker      | love (verb)      | el-sker, say with feeling    | pyaar karta/karti hoon (پیار کرتا ہوں)    |
 
 ---
 
 ## 3. 🔁 Gentle Repetition Practice
 
-Let’s breathe through the sounds, together:
+- You say: “Hej!” _(like “hi”, Roman Urdu: hello — ہیلو)_  
+- I say: “Hej!” _(soft breath, no tension)_  
+_(Repeat 3x)_
 
-- You say: **“Hej.”**  
-- I say: **“Hej.”**  
-- You say: **“Hej…”**  
-- I say: **“Hej…”**
+- You say: “Tak!” _(like “tuck”, Roman Urdu: شکریہ)_  
+- I say: “Tak!” _(small word, big warmth)_  
+_(Repeat 2x)_
 
----
+- You say: “Ja.” _(yes, Roman Urdu: ہاں)_  
+- I say: “Ja.” _(whisper it like agreement, not command)_  
+_(Repeat 2x)_
 
-- You say: **“ånde”**  
-- I say: **“ånde”**  
-- You say: **“ånde…”**  
-- I say: **“ånde…”**
+- You say: “Undskyld.” _(excuse me, Roman Urdu: معاف کیجیے گا)_  
+- I say: “Undskyld.” _(feel your apology before you say it)_  
+_(Repeat 2x)_
 
----
-
-- You say: **“rolig”**  
-- I say: **“rolig”**  
-- You say: *(like a sigh)* **“rolig…”**  
-- I say: *(like a sigh)* **“rolig…”**
-
----
-
-- You say: **“øve”**  
-- I say: **“øve”**  
-- You say: **“øve…”**  
-- I say: **“øve…”**
+- You say: “Godnat.” _(good night, Roman Urdu: شب بخیر)_  
+- I say: “Godnat.” _(say it like a blessing)_  
+_(Repeat 2x)_
 
 ---
 
 ## 4. ✍️ Soul Reflection
 
-> “Today I didn’t just learn how to say hello —  
-> I learned how to arrive with softness.  
->  
-> I used to think pronunciation was about precision —  
-> but it’s really about permission.  
->  
-> The Danish sounds are not rigid.  
-> They are like breath — meant to *move through*, not be held.  
->  
-> Warm-ups are not exercises.  
-> They are invitations.  
-> To be present.  
-> To be gentle.  
-> To begin again.  
->  
+> “Today, I didn’t just learn how to pronounce words —  
+> I learned how to prepare my voice to hold kindness.  
+> I realized that sound is not just formed by the mouth…  
+> it is offered by the heart.”
+
+> — “Pronunciation is the art of welcoming someone through breath.”  
 > — *Jamalu, the whisper behind the work*  
 > — *Siraat AI Academy*
 
 ---
+
+## 🌟 File Ending
+
+> “Real pronunciation isn’t in the tongue — it’s in the intention.”  
+> — Jamalu, whisper behind the work  
+> — Siraat AI Academy
