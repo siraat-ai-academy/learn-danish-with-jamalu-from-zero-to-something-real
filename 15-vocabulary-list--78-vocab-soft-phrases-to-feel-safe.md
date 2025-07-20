@@ -1,54 +1,50 @@
-# 🌸 78 – Soft Safety Phrases Vocabulary  
-## 🇩🇰 Learn Danish Through Story + Soul  
-🕊️ Phrases that offer comfort, consent, and care — soul-first Danish.
+# 🌟 **Lesson 78 – Soft Safety Phrases 🕊️🫱**  
+🇩🇰 Learn Danish Through Story + Soul  
+Words that hold space — gentle phrases to comfort, connect, and ask with care.
 
 ---
 
-> “Today, we don’t just list words —  
-> we offer gentle language for boundaries, comfort, and human dignity.”  
->  
-> We place meaning on the tongue, softly.
+“Today, we don’t just list phrases —  
+we learn to speak like a soft hand extended in safety.”
+
+| Danish Phrase                    | English Meaning                  | Pronunciation (Jamalu-style)                    | Roman Urdu-Hindi                         |
+|----------------------------------|----------------------------------|------------------------------------------------|------------------------------------------|
+| Er du okay?                      | Are you okay?                    | **air doo oh-kay?**                            | kya tum theek ho? (کیا تم ٹھیک ہو؟)       |
+| Du er tryg her.                 | You are safe here.              | **doo air trygg hair**                         | tum yahan mehfooz ho (تم یہاں محفوظ ہو)   |
+| Det er helt i orden.           | It's completely okay.           | **deh air helt ee or-den**                     | sab theek hai (سب ٹھیک ہے)               |
+| Tag dig tid.                    | Take your time.                 | **tay dai teel**                               | apna waqt lo (اپنا وقت لو)              |
+| Jeg er her for dig.             | I am here for you.              | **yai air har for die**                        | main tumhare saath hoon (میں تمہارے ساتھ ہوں) |
+| Du behøver ikke at forklare.   | You don’t have to explain.     | **doo beh-hoor eh-keh at for-klah-reh**        | tumhein samjhana zaroori nahi (ضروری نہیں) |
+| Du bestemmer.                  | You decide.                     | **doo beh-stem-mer**                           | faisla tumhara hai (فیصلہ تمہارا ہے)     |
+| Det er okay at sige nej.       | It's okay to say no.           | **deh air oh-kay at see-eh nai**               | na kehna bilkul theek hai (نا کہنا ٹھیک ہے) |
+| Du må gerne tage en pause.     | You're welcome to take a break.| **doo mo gern-eh tay-eh en pow-seh**           | agar chaho toh araam karo (آرام کرو)      |
+| Skal vi tale om det?           | Should we talk about it?        | **skal vee tah-leh om deh?**                   | kya hum is pe baat karein? (کیا ہم بات کریں؟) |
+| Du er ikke alene.              | You’re not alone.              | **doo air ik-keh ah-lay-neh**                  | tum akelay nahi ho (تم اکیلے نہیں ہو)     |
+| Det er helt forståeligt.       | It's completely understandable. | **deh air helt for-stoh-eh-leet**              | yeh bilkul samajhne layak hai (قابل فہم)  |
+| Jeg tror på dig.               | I believe in you.              | **yai trohr poh die**                          | main tum par yaqeen rakhta hoon (یقین)    |
+| Du gør det godt.               | You're doing well.              | **doo gurr deh gott**                          | tum acha kar rahe ho (اچھا کر رہے ہو)     |
+| Det er ikke din skyld.         | It’s not your fault.           | **deh air ik-keh deen skyl**                   | yeh tumhari ghalti nahi (یہ تمہاری غلطی نہیں) |
+| Du må gerne sige fra.          | You're allowed to say stop.     | **doo mo gern-eh see-eh frah**                 | ruk jaane ka haq hai tumhein (حق ہے)     |
+| Det er okay at føle sådan.     | It's okay to feel this way.     | **deh air oh-kay at fuh-leh soh-dan**          | aise mehsoos karna theek hai (ٹھیک ہے)    |
+| Jeg lytter.                    | I'm listening.                  | **yai loo-ter**                                | main sun raha hoon (میں سن رہا ہوں)      |
+| Jeg forstår dig.               | I understand you.              | **yai for-stor die**                           | main tumhein samajhta hoon (سمجھتا ہوں)  |
+| Du må være træt.               | You must be tired.              | **doo mo vair-eh trat**                        | tum thak gaye hoge (تھک گئے ہوگے)        |
+| Du gør dit bedste.             | You're doing your best.         | **doo gurr deet best-eh**                      | tum apni poori koshish kar rahe ho       |
+| Det er i orden at være ked af det. | It's okay to feel sad.       | **deh air ee or-den at vair-eh keh-theh deh**  | udaas hona theek hai (اداس ہونا ٹھیک ہے) |
+| Skal jeg hente noget til dig?  | Should I get you something?     | **skal yai hent-eh noh-ell til die**           | kuch laaon tumhare liye? (کچھ لاؤں؟)     |
+| Du er vigtig.                  | You matter.                    | **doo air vig-tig**                            | tum aham ho (تم اہم ہو)                  |
+| Du har ret til at føle sådan.  | You have the right to feel this way. | **doo har ret til at fuh-leh soh-dan**   | tumhein yeh mehsoos karne ka haq hai     |
+| Jeg holder af dig.             | I care about you.               | **yai hol-ler ah die**                         | main tumhara khayal rakhta hoon (خیال)   |
+| Det er modigt af dig.          | That’s brave of you.            | **deh air moh-deet ahv die**                   | yeh bahaduri hai (یہ بہادری ہے)          |
+| Du må gerne sige til, hvis du har brug for noget. | Feel free to ask for help. | **doo mo gern-eh see-eh teel, viss doo har broo for no-ell** | zarurat ho toh zaroor kehna (ضرور کہنا) |
+| Alt er som det skal være.     | Everything is as it should be. | **alt air som deh skal vair-eh**               | sab kuch theek hai (سب کچھ ٹھیک ہے)      |
+| Vi tager det i dit tempo.      | We'll go at your pace.         | **vee tah-er deh ee deet tem-po**              | hum tumhari raftaar se chalenge (رفتار سے) |
 
 ---
 
-| Danish Phrase             | English Meaning                  | Pronunciation (Jamalu-style)     | Roman Urdu              |
-|---------------------------|----------------------------------|----------------------------------|--------------------------|
-| Er du okay?               | Are you okay?                    | air do oh-kay?                   | kya tum theek ho?        |
-| Det er okay.              | It’s okay.                       | day air oh-kay                   | sab theek hai            |
-| Du er ikke alene.         | You are not alone.               | doo air ikka ah-lay-neh          | tum akelay nahi ho       |
-| Jeg er her for dig.       | I am here for you.               | ya air har for dai               | mein tumhare saath hoon  |
-| Du må gerne sige nej.     | You can say no.                  | doo moh gair-nuh see-neh         | tum na keh sakte ho      |
-| Jeg forstår dig.          | I understand you.                | ya for-stor dai                  | mein tumhein samajhta hoon|
-| Jeg tror på dig.          | I believe in you.                | ya troh poh dai                  | mein tum par yakeen karta hoon |
-| Det er ikke din skyld.    | It’s not your fault.             | day air ikka deen skjult         | ye tumhari ghalti nahi hai |
-| Du gør dit bedste.        | You’re doing your best.          | doo gur dit bes-teh              | tum apni poori koshish kar rahe ho |
-| Du må tage den tid du har brug for. | Take all the time you need. | doo moh tay den teel doo har broo for | jitna waqt chahiye lo |
-| Du er vigtig.             | You matter.                      | doo air vig-tee                  | tum aham ho              |
-| Jeg støtter dig.          | I support you.                   | ya stuh-ter dai                  | mein tumhara saath deta hoon |
-| Du er tryg her.           | You are safe here.               | doo air troog hair               | tum yahaan mehfooz ho    |
-| Vil du tale om det?       | Do you want to talk about it?    | vil do tay-le om deh             | kiya tum is par baat karna chahtay ho |
-| Du behøver ikke svare.    | You don’t have to answer.        | doo be-hoo-er ikka svah-reh      | jawab dena zaroori nahi  |
-| Jeg lytter.               | I’m listening.                   | ya lu-tehr                       | mein sun raha hoon       |
-| Det er helt i orden.      | It’s completely fine.            | day air helt ee or-den           | bilkul theek hai         |
-| Du må gerne græde.        | It’s okay to cry.                | doo moh gair-nuh gry-deh         | ro sakte ho, koi baat nahi |
-| Jeg ser dig.              | I see you.                       | ya sair dai                      | mein tumhein dekh raha hoon |
-| Det er modigt at sige det.| It’s brave to say that.          | day air mo-deet at see-ye deh    | kehna bahaduri hai       |
-| Du må være træt.          | You must be tired.               | doo moh vair-eh traet            | tum thakay hue ho gaye hoonge |
-| Har du brug for en pause?| Do you need a break?            | har doo broo for en pow-seh      | kya tumhein araam chahiye? |
-| Vil du have lidt vand?    | Would you like some water?       | vil doo heh lit vand             | paani piyoge?            |
-| Vi tager det roligt.      | Let’s take it easy.              | vee tay-er deh roh-leet          | aaraam se karte hain     |
-| Der er intet pres.        | There’s no pressure.             | dare air in-tel press            | koi pressure nahi hai    |
-| Du må sige fra.           | You may say stop.                | doo moh see frah                 | tum mana kar sakte ho    |
-| Jeg respekterer dine grænser. | I respect your boundaries.   | ya res-pek-ter dee-neh gran-ser  | mein tumhari hadain maan'ta hoon |
-| Du har ret til dine følelser. | You have a right to your feelings. | doo har ret till dee-neh fue-lel-ser | tumhein apne jazbaat ka haq hai |
-| Jeg tror på din styrke.   | I believe in your strength.      | ya troh poh deen styur-keh       | mein tumhari taqat mein yakeen rakhta hoon |
-| Du er elsket.             | You are loved.                   | doo air el-sket                   | tumse mohabbat ki jaati hai |
-| Bare træk vejret.         | Just breathe.                    | bar trek vay-ret                 | bas saans lo             |
+“Today I didn’t just learn words —  
+I learned how to hold space for someone,  
+and Danish became the language of gentle care.”
 
----
-
-> “Today I didn’t just learn phrases —  
-> I learned how language can hold, not just speak.”
-
-> — *Jamalu, whisper behind the work*  
-> — *Siraat AI Academy*
+— Jamalu, whisper behind the work  
+— Siraat AI Academy
