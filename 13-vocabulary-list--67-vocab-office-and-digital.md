@@ -1,75 +1,70 @@
-# 🇩🇰 67 – Office and Digital Vocabulary  
-### Learn Danish Through Story + Soul
+# 🌟 **Lesson 67 – Office and Digital Vocabulary 💻📎**  
+🇩🇰 Learn Danish Through Story + Soul  
+Where technology meets thought — here, even silence speaks in syllables.
 
 ---
 
-> “Today, we don’t just list words —  
-> we place meaning on the tongue, softly.”
+“Today, we don’t just list tools —  
+we write language into our workspace, gently and with grace.”
+
+| Danish Word        | English Meaning         | Pronunciation (Jamalu-style)         | Roman Urdu-Hindi                |
+|--------------------|-------------------------|--------------------------------------|----------------------------------|
+| kontor             | office                  | **kon-toor** (like “calm tour”)      | daftar (دفتر)                   |
+| computer           | computer                | **kom-pyoo-ter**                     | computer (کمپیوٹر)              |
+| bærbar             | laptop                  | **bare-bar** (portable breeze)       | laptop (لیپ ٹاپ)                |
+| skærm              | screen                  | **skayrm** (soft and sharp)          | screen (سکرین)                  |
+| tastatur           | keyboard                | **tas-ta-toor** (typing rhythm)      | keyboard (کی بورڈ)              |
+| mus                | mouse                   | **moos** (gentle click)              | mouse (ماؤس)                    |
+| printer            | printer                 | **prin-ter** (clean click)           | printer (پرنٹر)                 |
+| scanner            | scanner                 | **skan-er** (scan the silent)        | scanner (سکینر)                 |
+| kopi               | copy                    | **koh-pee** (mirror word)            | nakal (نقل)                     |
+| dokument           | document                | **doh-koo-ment**                     | document (دستاویز)              |
+| fil                | file                    | **feel** (like “feel”)               | file (فائل)                     |
+| mappe              | folder                  | **mah-peh** (soft map)               | folder (فولڈر)                  |
+| ark                | sheet / paper           | **ark** (like “arc”)                 | kaghaz (کاغذ)                   |
+| skrivebord         | desk                    | **skree-veh-bohrd** (quiet space)    | mez / desk (میز)               |
+| stol               | chair                   | **stol** (simple sit)                | kursi (کرسی)                   |
+| lampe              | lamp                    | **lam-peh** (soft light)             | lamp (لامپ)                    |
+| notesbog           | notebook                | **noh-tehs-boh** (whispered pages)   | notebook (نوٹ بک)              |
+| kuglepen           | ball pen                | **koo-gleh-pen** (ink melody)        | pen (قلم)                      |
+| blyant             | pencil                  | **blee-ant** (gentle draw)           | pencil (پنسل)                  |
+| viskelæder         | eraser                  | **vis-keh-lay-thur** (vanish softly) | rubber / eraser (ربڑ)           |
+| papir              | paper                   | **pah-peer** (light flutter)         | paper (کاغذ)                   |
+| papirclips         | paper clip              | **pah-peer-klips**                   | clip (کلپ)                     |
+| hæfte              | booklet / folder        | **hef-teh** (tiny tales)             | file / hafta (فائل / ہفہ)       |
+| skuffe             | drawer                  | **skoo-feh** (hidden space)          | drawer (دَراوَر)              |
+| kalender           | calendar                | **ka-len-der**                       | calendar (کیلنڈر)               |
+| ur                 | clock / watch           | **oor** (tick of time)               | ghari (گھڑی)                   |
+| e-mail             | email                   | **ee-mail**                          | email (ای میل)                 |
+| internet           | internet                | **in-ter-net**                       | internet (انٹرنیٹ)              |
+| hjemmeside         | website                 | **yem-seh-thill-eh** (web-home)      | website (ویب سائٹ)             |
+| adgangskode        | password                | **ed-gangs-ko-the**                  | password (پاسورڈ)              |
+| brugernavn         | username                | **broo-ger-navn**                    | username (یوزر نیم)            |
+| filoverførsel      | file transfer           | **feel-oh-ver-fur-sel**              | file bhejna (فائل بھیجنا)      |
+| download           | download                | **dawn-lohd**                        | download (ڈاؤن لوڈ)            |
+| upload             | upload                  | **up-lohd**                          | upload (اپ لوڈ)                |
+| system             | system                  | **sy-stehm**                         | nizaam (نظام)                  |
+| opdatering         | update                  | **op-da-teh-ring**                   | update (اپ ڈیٹ)                |
+| program            | software / program      | **pro-gram**                         | program (پروگرام)              |
+| app                | app                     | **ap**                               | app (ایپ)                      |
+| netværk            | network                 | **net-vairk** (net-work of whispers) | network (نیٹ ورک)              |
+| meddelelse         | message / notification  | **med-day-lel-seh**                  | paighaam (پیغام)               |
+| møde               | meeting                 | **muh-the** (soft gather)            | mulaqat / meeting (ملاقات)     |
+| samtale            | conversation            | **sam-ta-leh** (talk dance)          | guftagu (گفتگو)                |
+| opkald             | call                    | **op-kald** (ring softly)            | call (کال)                     |
+| videoopkald        | video call              | **vee-dee-oh-op-kald**               | video call (ویڈیو کال)         |
+| skærmdeling        | screen sharing          | **skayrm-day-ling**                  | screen share (سکرین شیئر)      |
+| fjernarbejde       | remote work             | **fyairn-ar-by-deh**                 | door se kaam (دور سے کام)      |
+| hjemmearbejde      | work from home          | **yem-mah-ar-by-deh**                | ghar se kaam (گھر سے کام)      |
+| præsentation       | presentation            | **preh-sen-ta-shon**                 | presentation (پریزنٹیشن)        |
+| skema              | schedule                | **skay-mah**                         | schedule (شیڈیول)              |
+| rapport            | report                  | **rah-poh-t** (formal whisper)       | report (رپورٹ)                 |
 
 ---
 
-In a world of remote work, online meetings, and digital creation —  
-these Danish words help you **connect**, **collaborate**, and **create** with clarity.
+“Today I didn’t just learn words —  
+I typed my thoughts into a softer world,  
+where Danish became the language of quiet focus and digital grace.”
 
-Here are 50 handpicked words for Jamalu-style digital professionals:
-
-| Danish Word      | English Meaning         | Pronunciation (Jamalu-style)       |
-|------------------|--------------------------|------------------------------------|
-| kontor           | office                   | *kohn-TOOR*                         |
-| arbejdsplads     | workplace                | *AHR-byes-plads*                    |
-| computer         | computer                 | *kom-POO-tor*                       |
-| skærm            | screen                   | *skehrm*                            |
-| tastatur         | keyboard                 | *TAS-ta-toor*                       |
-| mus              | mouse                    | *moos*                              |
-| skrivebord       | desk                     | *SKREE-veh-bohrd*                   |
-| stol             | chair                    | *stohl*                             |
-| printer          | printer                  | *PRIN-ter*                          |
-| scanner          | scanner                  | *SKAN-ner*                          |
-| dokument         | document                 | *DOH-koo-men(t)*                    |
-| fil              | file                     | *feel*                              |
-| mappe            | folder                   | *MAHP-peh*                          |
-| upload           | upload                   | *OOP-lohd*                          |
-| download         | download                 | *DOWN-lohd*                         |
-| internet         | internet                 | *IN-ter-net*                        |
-| wifi             | wifi                     | *vee-fee*                           |
-| netværk          | network                  | *NET-vaerk*                         |
-| møde             | meeting                  | *MEU-theh*                          |
-| videomøde        | video meeting            | *VEE-dee-oh-meu-theh*               |
-| kalender         | calendar                 | *kah-LEN-ter*                       |
-| e-mail           | email                    | *ee-mail*                           |
-| besked           | message                  | *beh-SKED*                          |
-| notat            | note                     | *noh-TAHT*                          |
-| projekt          | project                  | *pro-YEKT*                          |
-| opgave           | task                     | *OP-gav-eh*                         |
-| team             | team                     | *teem*                              |
-| samarbejde       | collaboration            | *SAH-mar-bye-theh*                  |
-| leder            | leader                   | *LEH-der*                           |
-| chef             | boss                     | *shef*                              |
-| kollega          | colleague                 | *koh-LEH-ga*                        |
-| feedback         | feedback                 | *FEED-back*                         |
-| præsentation     | presentation             | *PRAI-sen-ta-syon*                  |
-| dele             | to share                 | *DEH-leh*                           |
-| opdatere         | to update                | *OP-da-teh-reh*                     |
-| gemme            | to save (a file)         | *GEM-meh*                           |
-| redigere         | to edit                  | *reh-dee-GEH-reh*                   |
-| skrive           | to write                 | *SKREE-veh*                         |
-| læse             | to read                  | *LEH-seh*                           |
-| sende            | to send                  | *SEN-deh*                           |
-| modtage          | to receive               | *MOTH-tay-geh*                      |
-| chatte           | to chat                  | *CHAT-teh*                          |
-| mødelink         | meeting link             | *MEU-theh-link*                     |
-| adgangskode      | password                 | *AHD-gangs-koh-theh*                |
-| login            | login                    | *LOHG-in*                           |
-| brugernavn       | username                 | *BROO-er-navn*                      |
-| digital          | digital                  | *dee-ghee-TAHL*                     |
-| skabelon         | template                 | *SKAH-beh-lon*                      |
-| platform         | platform                 | *PLAHT-form*                        |
-| dokumentation    | documentation            | *DOH-koo-men-ta-syon*               |
-
----
-
-> “Today I didn’t just learn words for work —  
-> I learned how to build bridges in a language of calm.”
-
-> — *Jamalu, the whisper behind the work*  
-> — *Siraat AI Academy*
+— Jamalu, whisper behind the work  
+— Siraat AI Academy
