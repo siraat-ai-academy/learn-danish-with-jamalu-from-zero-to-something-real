@@ -62,43 +62,48 @@
 | at arbejde / arbejder| to work / works  | at AR-bay-deh / AR-bay-der | kaam karna / karta hai *(کام کرنا / کرتا ہے)* |
 
 
-
 **Group 3 – Modal-like verbs**  
-| at kunne / kan        | to can / can      | at KOO-neh / kan       | sakna / sakta hai *(سکنا / سکتا ہے)* |
-| at ville / vil        | to want / wants   | at VIL-leh / vil       | chahna / chahta hai *(چاہنا / چاہتا ہے)* |
-| at måtte / måtter    | to may / may      | at MO-teh / MO-ter     | mumkin hona / ho sakta hai *(ممکن ہونا / ہو سکتا ہے)* |
-| at skulle / skal      | to shall / shall  | at SKAL-leh / skal     | chahna (future) / chahega *(چاہنا / چاہے گا)* |
-| at burde / bør        | should / should   | at BYUR-deh / BYUR     | chahiye / chaahiye *(چاہیے)* |
-| at burde / bør        | alternate modal   | same as above          | same                      |
-| at turde / tør        | to dare / dares   | at TUR-deh / TUR       | himmat karna / karta hai *(ہمت کرنا / کرتا ہے)* |
-| at synes / synes      | to seem / seems   | at SOON-ess / SOON-ess | lagna / lagta hai *(لگنا / لگتا ہے)* |
-| at foretrække / foretrækker | prefer / prefers | at for-TRAK-keh / for-TRAK-ker | pasand karna / karta hai *(پسند کرنا / کرتا ہے)* |
-| at savne / savner    | to miss / misses  | at SOW-neh / SOW-ner   | yaad karna / karta hai *(یاد کرنا / کرتا ہے)* |
+| Danish Verb / Form            | English Meaning       | Pronunciation (Jamalu-style)        | Roman Urdu/Hindi (اردو ترجمہ)                                  |
+|------------------------------|-----------------------|------------------------------------|----------------------------------------------------------------|
+| at kunne / kan               | to can / can          | at KOO-neh / kan                   | sakna / sakta hai *(سکنا / سکتا ہے)*                           |
+| at ville / vil               | to want / wants       | at VIL-leh / vil                   | chahna / chahta hai *(چاہنا / چاہتا ہے)*                       |
+| at måtte / måtter           | to may / may          | at MO-teh / MO-ter                 | mumkin hona / ho sakta hai *(ممکن ہونا / ہو سکتا ہے)*          |
+| at skulle / skal             | to shall / shall      | at SKAL-leh / skal                 | chahna (future) / chahega *(چاہنا / چاہے گا)*                  |
+| at burde / bør               | should / should       | at BYUR-deh / BYUR                 | chahiye / chaahiye *(چاہیے)*                                  |
+| at burde / bør (alternate)   | alternate modal       | same as above                     | same                                                          |
+| at turde / tør              | to dare / dares       | at TUR-deh / TUR                   | himmat karna / karta hai *(ہمت کرنا / کرتا ہے)*                 |
+| at synes / synes            | to seem / seems       | at SOON-ess / SOON-ess             | lagna / lagta hai *(لگنا / لگتا ہے)*                          |
+| at foretrække / foretrækker  | prefer / prefers      | at for-TRAK-keh / for-TRAK-ker     | pasand karna / karta hai *(پسند کرنا / کرتا ہے)*                |
+| at savne / savner           | to miss / misses      | at SOW-neh / SOW-ner               | yaad karna / karta hai *(یاد کرنا / کرتا ہے)*                   |
+
 
 **Group 4 – Irregular present forms**  
-| at være / er          | to be / am/is/are | at VEH-reh / er        | hona / hoon / hai *(ہونا / ہوں / ہے)* |
-| at gøre / gør         | to do / does      | at GUR-eh / GUR        | karna / karta hai *(کرنا / کرتا ہے)* |
-| at have / har         | to have / has     | at HAH-veh / har       | rakhna / rakhta hai *(رکھنا / رکھتا ہے)* |
-| at gå / går           | to go / goes      | at goh / gohr          | jana / jata hai *(جانا / جاتا ہے)* |
-| at vide / ved         | to know / knows   | at VEE-deh / ved       | janna / janta hai *(جاننا / جانتا ہے)* |
-| at se / ser           | to see / sees     | at seer / seer         | dekhna / dekhta hai *(دیکھنا / دیکھتا ہے)* |
-| at blive / bliver     | to become / becomes | at blee-veh / blee-ver | banna / banta hai *(بنانا / بنتا ہے)* |
-| at give / giver       | to give / gives   | at GEE-veh / GEE-ver   | dena / deta hai *(دینا / دیتا ہے)* |
-| at forstå / forstår   | to understand / understands | at for-STOR / for-STOR | samajhna / samajhta hai *(سمجھنا / سمجھتا ہے)* |
-| at tro / tror         | to believe / believes | at TROH / TROHR       | maanna / maanta hai *(ماننا / مانتا ہے)* |
+| Danish Verb / Form           | English Meaning        | Pronunciation (Jamalu-style)     | Roman Urdu/Hindi (اردو ترجمہ)                                  |
+|-----------------------------|------------------------|---------------------------------|----------------------------------------------------------------|
+| at være / er               | to be / am/is/are      | at VEH-reh / er                 | hona / hoon / hai *(ہونا / ہوں / ہے)*                          |
+| at gøre / gør              | to do / does           | at GUR-eh / GUR                 | karna / karta hai *(کرنا / کرتا ہے)*                           |
+| at have / har              | to have / has          | at HAH-veh / har                | rakhna / rakhta hai *(رکھنا / رکھتا ہے)*                       |
+| at gå / går                | to go / goes           | at goh / gohr                   | jana / jata hai *(جانا / جاتا ہے)*                            |
+| at vide / ved              | to know / knows        | at VEE-deh / ved                | janna / janta hai *(جاننا / جانتا ہے)*                        |
+| at se / ser                | to see / sees          | at seer / seer                  | dekhna / dekhta hai *(دیکھنا / دیکھتا ہے)*                     |
+| at blive / bliver          | to become / becomes    | at blee-veh / blee-ver          | banna / banta hai *(بنانا / بنتا ہے)*                         |
+| at give / giver            | to give / gives        | at GEE-veh / GEE-ver            | dena / deta hai *(دینا / دیتا ہے)*                            |
+| at forstå / forstår        | to understand / understands | at for-STOR / for-STOR       | samajhna / samajhta hai *(سمجھنا / سمجھتا ہے)*                |
+| at tro / tror              | to believe / believes  | at TROH / TROHR                 | maanna / maanta hai *(ماننا / مانتا ہے)*                     |
 
 **Group 5 – Emotion & perception verbs**  
-| at elske / elsker     | to love / loves   | at EL-skeh / EL-sker   | mohabbat karna / karta hai *(محبت کرنا / کرتا ہے)* |
-| at frygte / frygter   | to fear / fears   | at FREW-teh / FREW-ter | darna / darta hai *(ڈarna / ڈرتا ہے)* |
-| at grine / griner     | to laugh / laughs | at GREE-neh / GREE-ner | hansna / hansa hai *(ہنسانا / ہنستا ہے)* |
-| at græde / græder     | to cry / cries    | at GREH-theh / GREH-ter | rona / rota hai *(رونا / روتا ہے)* |
-| at håbe / håber       | to hope / hopes   | at HOH-beh / HOH-ber   | umeed karna / karta hai *(امید کرنا / کرتا ہے)* |
-| at savne / savner     | to miss / misses  | at SOW-neh / SOW-ner   | yaad karna / karta hai *(یاد کرنا / کرتا ہے)* |
-| at mærke / mærker     | to feel / feels   | at MAER-keh / MAER-ker | mehsoos karna / karta hai *(محسوس کرنا / کرتا ہے)* |
-| at drømme / drømmer   | to dream / dreams | at DROOM-meh / DROOM-mer | khwab dekhna / dekhta hai *(خواب دیکھنا / دیکھتا ہے)* |
-| at længes / længes    | to long / longs   | at LENG-es / LENG-es   | tarsna / tarsnta hai *(تڑسنا / تڑسنا ہے)* |
-| at håbe / håber       | to hope again     | same as above         | same                      |
-
+| Danish Verb / Form       | English Meaning      | Pronunciation (Jamalu-style)     | Roman Urdu/Hindi (اردو ترجمہ)                                   |
+|-------------------------|----------------------|---------------------------------|-----------------------------------------------------------------|
+| at elske / elsker       | to love / loves      | at EL-skeh / EL-sker             | mohabbat karna / karta hai *(محبت کرنا / کرتا ہے)*              |
+| at frygte / frygter     | to fear / fears      | at FREW-teh / FREW-ter           | darna / darta hai *(ڈarna / ڈرتا ہے)*                          |
+| at grine / griner       | to laugh / laughs    | at GREE-neh / GREE-ner           | hansna / hansa hai *(ہنسانا / ہنستا ہے)*                      |
+| at græde / græder       | to cry / cries       | at GREH-theh / GREH-ter          | rona / rota hai *(رونا / روتا ہے)*                            |
+| at håbe / håber         | to hope / hopes      | at HOH-beh / HOH-ber             | umeed karna / karta hai *(امید کرنا / کرتا ہے)*                |
+| at savne / savner       | to miss / misses     | at SOW-neh / SOW-ner             | yaad karna / karta hai *(یاد کرنا / کرتا ہے)*                  |
+| at mærke / mærker       | to feel / feels      | at MAER-keh / MAER-ker           | mehsoos karna / karta hai *(محسوس کرنا / کرتا ہے)*             |
+| at drømme / drømmer     | to dream / dreams    | at DROOM-meh / DROOM-mer         | khwab dekhna / dekhta hai *(خواب دیکھنا / دیکھتا ہے)*          |
+| at længes / længes      | to long / longs      | at LENG-es / LENG-es             | tarsna / tarsnta hai *(تڑسنا / تڑسنا ہے)*                     |
+| at håbe / håber         | to hope again        | same as above                   | same                                                            |
 ---
 
 ## 3. 🔁 Gentle Repetition Practice → Blid Gentagelsesøvelse → blee-d yen-ta-gel-ses-øv-vel-se  
