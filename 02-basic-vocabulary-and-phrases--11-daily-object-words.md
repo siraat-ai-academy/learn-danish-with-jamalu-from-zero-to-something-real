@@ -1,4 +1,4 @@
-# 🌟 11 – Daily Object Words – Ting i Hverdagen  
+# 🌟 11 – Daily Object Words – Ting i Hverdagen  (Things in Everyday Life)
 ## 🇩🇰 Learn Danish Through Story + Soul  
 🪞 Seeing the familiar anew — one object, one breath, one heart at a time.
 
