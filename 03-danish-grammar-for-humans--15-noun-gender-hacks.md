@@ -64,6 +64,47 @@
 | et smil             | a smile               | et smil                      | et smil → aik muskurahat (ایک مسکراہٹ)                 |
 | en dråbe            | a drop                 | en droh-beh                 | en droh-beh → aik boond (ایک بوند)                     |
 
+| Danish Word | English Meaning | Pronunciation (Jamalu-style) | Roman Urdu/Hindi (اردو ترجمہ)                        |
+|-------------|-----------------|------------------------------|------------------------------------------------------|
+| en pige     | a girl          | en pee-yeh                  | en pee-yeh → aik larki *(ایک لڑکی)*                   |
+| en dreng    | a boy           | en dreng                    | en dreng → aik larka *(ایک لڑکا)*                      |
+| en ven      | a friend (m)    | en ven                     | en ven → aik dost (mardana) *(ایک دوست (مردانہ))*     |
+| en veninde  | a friend (f)    | en ve-nin-deh              | en ve-nin-deh → aik dost (zanana) *(ایک دوست (زنانہ))*|
+| en familie  | a family        | en fa-mi-li                | en fa-mi-li → aik khandan *(ایک خاندان)*              |
+
+| Danish Word | English Meaning | Pronunciation (Jamalu-style) | Roman Urdu/Hindi (اردو ترجمہ)                        |
+|-------------|-----------------|------------------------------|------------------------------------------------------|
+| et barn     | a child         | et barn                    | et barn → aik bacha *(ایک بچہ)*                       |
+| et hjerte   | a heart         | et yer-teh                 | et yer-teh → aik dil *(ایک دل)*                        |
+| et problem  | a problem       | et pro-blem                | et pro-blem → aik masla *(ایک مسئلہ)*                 |
+| en glæde    | a joy           | en glay-theh               | en glay-theh → aik khushi *(ایک خوشی)*                |
+| en sorg     | a sorrow        | en sorg                    | en sorg → aik gham *(ایک غم)*                          |
+
+| Danish Word | English Meaning | Pronunciation (Jamalu-style) | Roman Urdu/Hindi (اردو ترجمہ)                        |
+|-------------|-----------------|------------------------------|------------------------------------------------------|
+| en kærlighed| love            | en kayr-lee-hed            | en kayr-lee-hed → mohabbat *(محبت)*                   |
+| et håb      | a hope          | et hoh-b                   | et hoh-b → umeed *(امید)*                             |
+| en frygt    | a fear          | en frygt                   | en frygt → darr *(ڈر)*                                |
+| en drøm     | a dream         | en drurm                   | en drurm → khwab *(خواب)*                             |
+| en tillid   | trust           | en til-leed                | en til-leed → bharosa *(بھروسہ)*                      |
+
+| Danish Word | English Meaning | Pronunciation (Jamalu-style) | Roman Urdu/Hindi (اردو ترجمہ)                        |
+|-------------|-----------------|------------------------------|------------------------------------------------------|
+| et smil     | a smile         | et smeel                   | et smeel → muskurahat *(مسکراہٹ)*                    |
+| en latter   | a laugh         | en lat-ter                 | en lat-ter → hansi *(ہنسی)*                           |
+| en vrede    | anger           | en vreh-theh               | en vreh-theh → gussa *(غصہ)*                         |
+| en glæde    | happiness       | en glay-theh               | en glay-theh → khushi *(خوشی)*                       |
+| et mod      | courage         | et mod                     | et mod → himmat *(ہمت)*                              |
+
+| Danish Word | English Meaning | Pronunciation (Jamalu-style) | Roman Urdu/Hindi (اردو ترجمہ)                        |
+|-------------|-----------------|------------------------------|------------------------------------------------------|
+| en drømmer  | a dreamer       | en drurm-er                | en drurm-er → khwabon wala *(خوابوں والا)*           |
+| en succes   | success         | en sue-ses                 | en sue-ses → kamyabi *(کامیابی)*                     |
+| et håb      | hope           | et hoh-b                    | et hoh-b → umeed *(امید)*                            |
+| en frygt    | fear            | en frygt                   | en frygt → darr *(ڈر)*                               |
+| en følelse  | a feeling       | en few-leh-seh             | en few-leh-seh → ehsaas *(احساس)*                    |
+
+
 ---
 
 ## 3. 🔁 Gentle Repetition Practice
