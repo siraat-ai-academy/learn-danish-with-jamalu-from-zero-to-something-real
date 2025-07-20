@@ -44,22 +44,97 @@ Each one fell like dew from his lips.
 
 ## 2. 📘 Vocabulary + Pronunciation Table
 
+
+
+---
+
+### ✨ From 11 to 20
+
 | Danish Word | English Meaning | Pronunciation (Jamalu-style) | Roman Urdu/Hindi (اردو ترجمہ) |
 |-------------|------------------|------------------------------|-------------------------------|
 | elleve      | eleven           | el-veh                       | el-veh → gyarah (گیارہ)       |
 | tolv        | twelve           | tol                          | tol → barah (بارہ)           |
-| tretten     | thirteen         | tret-ten                     | tret-ten → terah (تیرہ)      |
-| fjorten     | fourteen         | fyor-ten                     | fyor-ten → chaudah (چودہ)    |
-| femten      | fifteen          | fem-ten                      | fem-ten → pandrah (پندرہ)    |
-| seksten     | sixteen          | syks-ten                     | syks-ten → sola (سولہ)       |
-| sytten      | seventeen        | sut-ten                      | sut-ten → sattarah (سترہ)    |
-| atten       | eighteen         | at-ten                       | at-ten → atharah (اٹھارہ)    |
-| nitten      | nineteen         | nit-ten                      | nit-ten → unnis (انیس)       |
-| tyve        | twenty           | too-veh                      | too-veh → bees (بیس)         |
-| enogtyve    | twenty-one       | en-oh-too-veh                | en-oh-too-veh → ikkīs (اکیس) |
-| tredive     | thirty           | tre-thoo-veh                 | tre-thoo-veh → tees (تیس)     |
-| fyrre       | forty            | fyur-eh                      | fyur-eh → chalis (چالیس)     |
-| halvtreds   | fifty            | hel-tres                     | hel-tres → pachaas (پچاس)    |
+| tretten     | thirteen         | trat-en                      | trat-en → terah (تیرہ)       |
+| fjorten     | fourteen         | fyoo-ten                     | fyoo-ten → chaudah (چودہ)     |
+| femten      | fifteen          | fem-ten                      | fem-ten → pandrah (پندرہ)     |
+| seksten     | sixteen          | sais-ten                     | sais-ten → solah (سولہ)       |
+| sytten      | seventeen        | sut-ten                      | sut-ten → sattarah (سترہ)     |
+| atten       | eighteen         | at-ten                       | at-ten → atharah (اٹھارہ)     |
+| nitten      | nineteen         | nit-ten                      | nit-ten → unees (انیس)        |
+| tyve        | twenty           | tu-veh                       | tu-veh → bees (بیس)           |
+
+---
+
+### 🔄 From 21 to 29
+
+| Danish Word | English Meaning | Pronunciation (Jamalu-style) | Roman Urdu/Hindi (اردو ترجمہ) |
+|-------------|------------------|------------------------------|-------------------------------|
+| enogtyve    | twenty-one       | ay-no-tu-veh                 | ay-no-tu-veh → ikkis (اکیس)    |
+| toogtyve    | twenty-two       | toh-u-tu-veh                 | toh-u-tu-veh → baees (بائیس)   |
+| treogtyve   | twenty-three     | tray-u-tu-veh                | tray-u-tu-veh → teyes (تئیس)   |
+| fireogtyve  | twenty-four      | fee-rah-tu-veh               | fee-rah-tu-veh → chaubees (چوبیس) |
+| femogtyve   | twenty-five      | fem-u-tu-veh                 | fem-u-tu-veh → pachees (پچیس)  |
+| seksogtyve  | twenty-six       | seks-u-tu-veh                | seks-u-tu-veh → chhabees (چھببیس) |
+| syvogtyve   | twenty-seven     | soo-u-tu-veh                 | soo-u-tu-veh → sataees (ستائیس) |
+| otteogtyve  | twenty-eight     | o-tuh-u-tu-veh               | o-tuh-u-tu-veh → athaees (اٹھائیس) |
+| niogtyve    | twenty-nine      | nee-u-tu-veh                 | nee-u-tu-veh → untees (انتیس)  |
+
+---
+
+### 🧩 30, 40, 50 – Base Numbers
+
+| Danish Word | English Meaning | Pronunciation (Jamalu-style) | Roman Urdu/Hindi (اردو ترجمہ) |
+|-------------|------------------|------------------------------|-------------------------------|
+| tredive     | thirty           | trai-va                      | trai-va → tees (تیس)          |
+| fyrre       | forty            | fur                          | fur → chalees (چالیس)         |
+| halvtreds   | fifty            | hal-trals                    | hal-trals → pachaas (پچاس)    |
+
+---
+
+### 🌀 From 31 to 39
+
+| Danish Word | English Meaning | Pronunciation (Jamalu-style) | Roman Urdu/Hindi (اردو ترجمہ) |
+|-------------|------------------|------------------------------|-------------------------------|
+| enogtredive   | thirty-one      | ay-no-trai-va               | ay-no-trai-va → ikatees (اکتیس) |
+| toogtredive   | thirty-two      | toh-u-trai-va               | toh-u-trai-va → battees (بتیس) |
+| treogtredive  | thirty-three    | tray-u-trai-va              | tray-u-trai-va → tantees (تینتیس) |
+| fireogtredive | thirty-four     | fee-rah-trai-va             | fee-rah-trai-va → chauntees (چونتیس) |
+| femogtredive  | thirty-five     | fem-u-trai-va               | fem-u-trai-va → pantees (پینتیس) |
+| seksogtredive | thirty-six      | seks-u-trai-va              | seks-u-trai-va → chhantees (چھتیس) |
+| syvogtredive  | thirty-seven    | soo-u-trai-va               | soo-u-trai-va → saintess (سینتیس) |
+| otteogtredive | thirty-eight    | o-tuh-u-trai-va             | o-tuh-u-trai-va → artess (اڑتیس) |
+| niogtredive   | thirty-nine     | nee-u-trai-va               | nee-u-trai-va → untalees (انتالیس) |
+
+---
+
+### 🌿 From 41 to 49
+
+| Danish Word | English Meaning | Pronunciation (Jamalu-style) | Roman Urdu/Hindi (اردو ترجمہ) |
+|-------------|------------------|------------------------------|-------------------------------|
+| enogfyrre    | forty-one        | ay-no-fur                   | ay-no-fur → iktalees (اکتالیس) |
+| toogfyrre    | forty-two        | toh-u-fur                   | toh-u-fur → bayalees (بیالیس) |
+| treogfyrre   | forty-three      | tray-u-fur                  | tray-u-fur → tantees (تینتالیس) |
+| fireogfyrre  | forty-four       | fee-rah-fur                 | fee-rah-fur → chauntalees (چونتالیس) |
+| femogfyrre   | forty-five       | fem-u-fur                   | fem-u-fur → paintalees (پینتالیس) |
+| seksogfyrre  | forty-six        | seks-u-fur                  | seks-u-fur → chhealees (چھیالیس) |
+| syvogfyrre   | forty-seven      | soo-u-fur                   | soo-u-fur → saintalees (سینتالیس) |
+| otteogfyrre  | forty-eight      | o-tuh-u-fur                 | o-tuh-u-fur → artalees (اڑتالیس) |
+| niogfyrre    | forty-nine       | nee-u-fur                   | nee-u-fur → unchaas (انچاس)   |
+
+---
+
+### 🏁 The 50
+
+| Danish Word | English Meaning | Pronunciation (Jamalu-style) | Roman Urdu/Hindi (اردو ترجمہ) |
+|-------------|------------------|------------------------------|-------------------------------|
+| halvtreds   | fifty            | hal-trals                   | hal-trals → pachaas (پچاس)    |
+
+---
+
+> 💡 **Note:** Danish numbers above 20 are spoken in reverse order!  
+> For example, **"twenty-one"** is said as **"one and twenty" (en og tyve)** — poetic and logical in its own way!
+
+
 
 ---
 
