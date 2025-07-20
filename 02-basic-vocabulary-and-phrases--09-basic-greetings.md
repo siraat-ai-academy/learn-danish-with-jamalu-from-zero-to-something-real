@@ -34,8 +34,11 @@ His voice catches something between hope and harmony.
 **💬 Lukas** leans in:  
 *“You say ‘Tak’. One small word — but if you mean it, it’s everything.”*
 
-**🎨 Tanya** giggles:  
-*“That one’s easy — ‘tak’ is like a kiss of kindness.”*
+🎨 **Tanya giggles softly**:  
+_“That one’s easy — ‘tak’... it’s not just ‘thanks’.”_  
+_“It’s a little bridge... built with warmth.”_  
+_“A connection, softly spoken.”_  
+
 
 **👤 Jamalu**, eyes shimmering slightly:  
 *“It’s strange. I came to learn Danish... but maybe I’m learning how to be gentle first.”*
