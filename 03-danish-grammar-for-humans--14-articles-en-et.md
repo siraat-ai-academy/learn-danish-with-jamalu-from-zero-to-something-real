@@ -38,17 +38,44 @@
 ## 2. 📘 Vocabulary + Pronunciation Table
 
 | Danish Word | English Meaning | Pronunciation (Jamalu-style) | Roman Urdu/Hindi (اردو ترجمہ)                        |
-|-------------|------------------|------------------------------|-------------------------------------------------------|
-| en kage     | a cake           | en kay-yeh                   | en kay-yeh → aik cake *(ایک کیک)*                    |
-| et brød     | a bread          | et bruth (soft ‘th’)         | et bruth → aik roti *(ایک روٹی)*                    |
-| en bog      | a book           | en boh                       | en boh → aik kitaab *(ایک کتاب)*                    |
-| et hus      | a house          | et hoos                      | et hoos → aik ghar *(ایک گھر)*                      |
-| en stol     | a chair          | en stole                     | en stole → aik kursi *(ایک کرسی)*                   |
-| et bord     | a table          | et bore                      | et bore → aik mez *(ایک میز)*                       |
-| en dreng    | a boy            | en drang                     | en drang → aik larka *(ایک لڑکا)*                   |
-| en pige     | a girl           | en pee-yeh                   | en pee-yeh → aik larki *(ایک لڑکی)*                 |
-| et æble     | an apple         | et AE-bleh                   | et e-bleh → aik saib *(ایک سیب)*                    |
-| en bil      | a car            | en beel                      | en beel → aik gaari *(ایک گاڑی)*                    |
+|-------------|-----------------|------------------------------|------------------------------------------------------|
+| en kage     | a cake          | en kay-yeh                   | en kay-yeh → aik cake *(ایک کیک)*                    |
+| et brød     | a bread         | et bruth (soft ‘th’)         | et bruth → aik roti *(ایک روٹی)*                      |
+| en bog      | a book          | en boh                      | en boh → aik kitaab *(ایک کتاب)*                      |
+| et hus      | a house         | et hoos                     | et hoos → aik ghar *(ایک گھر)*                        |
+| en stol     | a chair         | en stohl                    | en stohl → aik kursi *(ایک کرسی)*                     |
+
+| Danish Word | English Meaning | Pronunciation (Jamalu-style) | Roman Urdu/Hindi (اردو ترجمہ)                        |
+|-------------|-----------------|------------------------------|------------------------------------------------------|
+| et bord     | a table         | et bord                     | et bord → aik mez *(ایک میز)*                        |
+| en lampe    | a lamp          | en lam-peh                  | en lam-peh → aik chiraagh *(ایک چراغ)*               |
+| et vindue   | a window        | et vin-doo                  | et vin-doo → aik khidki *(ایک کھڑکی)*                |
+| en dør      | a door          | en dohr                     | en dohr → aik darwaza *(ایک دروازہ)*                 |
+| et tæppe    | a carpet        | et teh-peh                  | et teh-peh → aik farsh *(ایک فرش)*                    |
+
+| Danish Word | English Meaning | Pronunciation (Jamalu-style) | Roman Urdu/Hindi (اردو ترجمہ)                        |
+|-------------|-----------------|------------------------------|------------------------------------------------------|
+| en blyant   | a pencil        | en blee-ant                 | en blee-ant → aik pencil *(ایک پنسل)*                 |
+| et ur       | a clock/watch   | et oor                     | et oor → aik ghadi *(ایک گھڑی)*                       |
+| en boghandel| a bookstore     | en boh-han-del              | en boh-han-del → aik kitaab ki dukaan *(ایک کتاب کی دکان)* |
+| et brev     | a letter        | et brev                    | et brev → aik khat *(ایک خط)*                         |
+| en sko      | a shoe          | en skoh                    | en skoh → aik joota *(ایک جوتا)*                     |
+
+| Danish Word | English Meaning | Pronunciation (Jamalu-style) | Roman Urdu/Hindi (اردو ترجمہ)                        |
+|-------------|-----------------|------------------------------|------------------------------------------------------|
+| et æble     | an apple        | et ay-bleh                 | et ay-bleh → aik seb *(ایک سیب)*                     |
+| en cykel    | a bicycle       | en see-kel                 | en see-kel → aik cycle *(ایک سائیکل)*                |
+| et kamera   | a camera        | et ka-meh-rah              | et ka-meh-rah → aik camera *(ایک کیمرہ)*             |
+| en hat      | a hat           | en hat                     | en hat → aik topi *(ایک ٹوپی)*                        |
+| et kort     | a card/map      | et kort                    | et kort → aik card ya naqsha *(ایک کارڈ یا نقشہ)*     |
+
+| Danish Word | English Meaning | Pronunciation (Jamalu-style) | Roman Urdu/Hindi (اردو ترجمہ)                        |
+|-------------|-----------------|------------------------------|------------------------------------------------------|
+| en taske    | a bag           | en tas-keh                 | en tas-keh → aik thaila *(ایک تھیلا)*                 |
+| et æg       | an egg          | et ayg                     | et ayg → aik anda *(ایک انڈا)*                        |
+| en flaske   | a bottle        | en flas-keh                | en flas-keh → aik bottle *(ایک بوتل)*                 |
+| et glas     | a glass         | et glas                    | et glas → aik glass *(ایک گلاس)*                      |
+| en seng     | a bed           | en seng                    | en seng → aik bistar *(ایک بستر)*                    |
 
 ---
 
