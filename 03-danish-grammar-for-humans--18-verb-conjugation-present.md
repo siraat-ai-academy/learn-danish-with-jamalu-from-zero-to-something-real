@@ -61,6 +61,8 @@
 | at bo / bor          | to live / lives  | at boh / bor           | rehana / rehta hai *(رہنا / رہتا ہے)* |
 | at arbejde / arbejder| to work / works  | at AR-bay-deh / AR-bay-der | kaam karna / karta hai *(کام کرنا / کرتا ہے)* |
 
+
+
 **Group 3 – Modal-like verbs**  
 | at kunne / kan        | to can / can      | at KOO-neh / kan       | sakna / sakta hai *(سکنا / سکتا ہے)* |
 | at ville / vil        | to want / wants   | at VIL-leh / vil       | chahna / chahta hai *(چاہنا / چاہتا ہے)* |
