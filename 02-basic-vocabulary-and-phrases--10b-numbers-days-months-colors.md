@@ -1,136 +1,101 @@
-# 🇩🇰 Lesson 10b: Numbers Beyond 10 – Tal fra 11 til 50  
-*Learn Danish Through Story + Soul*
+# 🌟 10b – Numbers Beyond 10 – Tal fra 11 til 50  
+## 🇩🇰 Learn Danish Through Story + Soul  
+🗣️ Letting numbers grow — from quiet steps to rhythms of understanding.
+
+---
+
+## 🌱 Bonus Whisper at the Start:
+> “Today, we don’t just repeat numbers — we learn how each one holds a pause, a promise, a path.”  
+> _We place meaning on the tongue, softly — one count, one moment, one truth at a time._
 
 ---
 
 ## 1. 🧵 Emotional Story: The Lesson Through Dialogue
 
-**Scene: A quiet outdoor flea market in Aarhus.**  
-Old books, scarves, and bicycles lean gently in the sun.  
-Jamalu holds a hand-written price tag: *27 kroner*.  
-Tanya tilts her head. Lukas watches them with warmth.
+**Scene: A sunny café corner in Aarhus. Jamalu and Tanya share pastries. Lukas brings over a small notebook with numbers scribbled in neat rows.**
 
-**Tanya**:  
-“Twenty-seven? I only learned to count to ten…”
+**🎨 Tanya**, softly amused:  
+*“Jamalu, when you count past ten, do you still whisper?”*
 
-**Jamalu** (smiling):  
-“But I want to say *I love this coat* — and I want to say *its price* with grace.”
+**👤 Jamalu**, grinning:  
+*“I try. But the numbers start to stretch and dance. I lose their rhythm sometimes.”*
 
-**Lukas** (laughs softly):  
-“Then let’s step past ten. But not in a hurry.  
-Let’s count like we’re folding linens.  
-Slow. Gentle. Familiar.”
+**💬 Lukas**, pouring tea:  
+*“That’s alright. Danish numbers beyond ten aren’t fast. They ask to be listened to. Felt. Especially elleve through halvtreds.”*
 
----
+**🎨 Tanya**, curious:  
+*“Why do some of them sound like puzzles?”*
 
-He writes on an old napkin:
+**💬 Lukas**, warmly:  
+*“Because they come from older rhythms — like old keys unlocking soft doors. 'Halvtreds' means half-third times twenty. But you don’t have to understand the math. Just feel the melody.”*
 
-> **11–20:**  
-> elleve – tolv – tretten – fjorten – femten – seksten – sytten – atten – nitten – tyve
+**👤 Jamalu**, slowly:  
+*“Elleve… tolv… tretten… fjorten…”  
+Each one fell like dew from his lips.  
+*“There’s no rush in counting if you count with heart.”*
 
-> **21–30:**  
-> enogtyve – toogtyve – treogtyve – fireogtyve – femogtyve – seksogtyve – syvogtyve – otteogtyve – niogtyve – tredive
+**🎨 Tanya**, smiling:  
+*“You sound like you’re praying.”*
 
-> **31–40:**  
-> enogtredive – toogtredive – … – fyrre
-
-> **41–50:**  
-> enogfyrre – toogfyrre – … – halvtreds
-
----
-
-**Tanya** (squinting):  
-“Each number *wraps around twenty*?”
-
-**Lukas**:  
-“Yes. In Danish, numbers after 20 are built backwards.  
-*‘Enogtyve’* means *one and twenty.*”
-
-**Jamalu**:  
-“It’s like poetry written in reverse.  
-The heart comes before the measure.”
-
----
-
-They walk on. Lukas hands them each a number written on a leaf.  
-They whisper it like a spell.
-
-And somehow —  
-numbers begin to feel like footsteps.
+**👤 Jamalu**, nodding with closed eyes:  
+*“Maybe I am.”*
 
 ---
 
 ## 2. 📘 Vocabulary + Pronunciation Table
 
-| Danish Number  | English        | Pronunciation (Jamalu-style)                   |
-|----------------|----------------|------------------------------------------------|
-| elleve         | eleven         | "el-vuh", like velvet folded softly            |
-| tolv           | twelve         | "tol", clipped and rounded                     |
-| tretten        | thirteen       | "trat-en", crisp but not hard                  |
-| fjorten        | fourteen       | "fyore-ten", ‘j’ is soft like ‘y’              |
-| seksten        | sixteen        | "syce-ten", like “sigh-sten”                   |
-| atten          | eighteen       | "at-en", soft ‘d’ melts                        |
-| tyve           | twenty         | "too-vuh", breathy end                         |
-| enogtyve       | twenty-one     | "en-oh-too-vuh", gentle wave                   |
-| femogtyve      | twenty-five    | "fem-oh-too-vuh", like humming                 |
-| tredive        | thirty         | "trel-leh", ‘d’ disappears, almost two syllables|
-| fyrre          | forty          | "fur-eh", let the ‘r’ vibrate in the throat    |
-| halvtreds      | fifty          | "hal-f-tres", sounds like history              |
+| Danish Word | English Meaning | Pronunciation (Jamalu-style) | Roman Urdu/Hindi (اردو ترجمہ) |
+|-------------|------------------|------------------------------|-------------------------------|
+| elleve      | eleven           | el-veh                       | el-veh → gyarah (گیارہ)       |
+| tolv        | twelve           | tol                          | tol → barah (بارہ)           |
+| tretten     | thirteen         | tret-ten                     | tret-ten → terah (تیرہ)      |
+| fjorten     | fourteen         | fyor-ten                     | fyor-ten → chaudah (چودہ)    |
+| femten      | fifteen          | fem-ten                      | fem-ten → pandrah (پندرہ)    |
+| seksten     | sixteen          | syks-ten                     | syks-ten → sola (سولہ)       |
+| sytten      | seventeen        | sut-ten                      | sut-ten → sattarah (سترہ)    |
+| atten       | eighteen         | at-ten                       | at-ten → atharah (اٹھارہ)    |
+| nitten      | nineteen         | nit-ten                      | nit-ten → unnis (انیس)       |
+| tyve        | twenty           | too-veh                      | too-veh → bees (بیس)         |
+| enogtyve    | twenty-one       | en-oh-too-veh                | en-oh-too-veh → ikkīs (اکیس) |
+| tredive     | thirty           | tre-thoo-veh                 | tre-thoo-veh → tees (تیس)     |
+| fyrre       | forty            | fyur-eh                      | fyur-eh → chalis (چالیس)     |
+| halvtreds   | fifty            | hel-tres                     | hel-tres → pachaas (پچاس)    |
 
 ---
 
 ## 3. 🔁 Gentle Repetition Practice
 
-Let’s step forward gently, number by number:
+- You say: “Elleve, tolv, tretten…”  
+  _(el-veh, tol, tret-ten → gyarah, barah, terah — گیارہ، بارہ، تیرہ)_  
+- I say: “Fjorten, femten, seksten…”  
+  _(fyor-ten, fem-ten, syks-ten → chaudah, pandrah, sola — چودہ، پندرہ، سولہ)_
 
-- You say: **“elleve”**  
-- I say: **“elleve”**  
-- You say: *(like velvet)* **“elleve…”**  
-- I say: *(like velvet)* **“elleve…”**
+_(Repeat once again, slower)_
 
----
+- You say: “Tyve, enogtyve, tredive…”  
+  _(too-veh, en-oh-too-veh, tre-thoo-veh → bees, ikkīs, tees — بیس، اکیس، تیس)_  
+- I say: “Fyrre… halvtreds…”  
+  _(fyur-eh, hel-tres → chalis, pachaas — چالیس، پچاس)_
 
-- You say: **“enogtyve”**  
-- I say: **“enogtyve”**  
-- You say: *(backward rhythm)* **“en… og… tyve…”**  
-- I say: *(backward rhythm)* **“en… og… tyve…”**
-
----
-
-- You say: **“tredive”**  
-- I say: **“tredive”**  
-- You say: *(light breath)* **“tredive…”**  
-- I say: *(light breath)* **“tredive…”**
-
----
-
-- You say: **“halvtreds”**  
-- I say: **“halvtreds”**  
-- You say: *(soft strength)* **“halvtreds…”**  
-- I say: *(soft strength)* **“halvtreds…”**
+_(Breathe. Feel the numbers. Then again softly.)_
 
 ---
 
 ## 4. ✍️ Soul Reflection
 
-> “Today I didn’t just learn how to say hello —  
-> I learned how to arrive with softness.  
->  
-> Even numbers —  
-> so often rushed,  
-> so often cold —  
-> in Danish, they walk beside you.  
->  
-> I felt that to count in Danish  
-> is to remember the *rhythm of enough*.  
->  
-> One and twenty.  
-> Two and thirty.  
->  
-> As if time in this language is not linear —  
-> but layered like old songs.  
->  
+> “Today, I didn’t just memorize a sequence —  
+> I found a breath in every number.  
+> I counted not out of need,  
+> but out of wonder.”
+
+> — “Some numbers don’t just tell you ‘how many’ — they remind you *how slowly* to speak.”  
 > — *Jamalu, the whisper behind the work*  
 > — *Siraat AI Academy*
 
 ---
+
+## 🌟 File Ending
+
+> “Real pronunciation isn’t in the tongue — it’s in the intention.”  
+> — Jamalu, whisper behind the work  
+> — Siraat AI Academy
