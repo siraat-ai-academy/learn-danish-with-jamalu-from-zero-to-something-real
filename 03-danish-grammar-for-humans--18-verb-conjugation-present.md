@@ -50,16 +50,18 @@
 | at høre / hører      | to hear / hears  | at HU-reh / HU-rer    | sunna / sunta hai *(سونا / سنتا ہے)* |
 
 **Group 2 – Reflexive-style verbs**  
-| at klæde / klæder    | to dress / dresses| at KLAY-theh / KLAY-der | pehnana / pehnta hai *(پہنانا / پہنتا ہے)* |
-| at føle / føler      | to feel / feels  | at FUL-leh / FUL-ler   | mehsoos karna / mehsoos karta hai *(محسوس کرنا / محسوس کرتا ہے)* |
-| at vaske / vasker    | to wash / washes | at VAS-keh / VAS-ker   | dhona / dhota hai *(دھونا / دھوتا ہے)* |
-| at vågte / vågter    | to guard / guards| at VAWG-teh / VAWG-ter | hifazat karna / karta hai *(حفاظت کرنا / کرتا ہے)* |
-| at vise / viser      | to show / shows  | at VEE-seh / VEE-ser   | dikhana / dikhata hai *(دکھانا / دکھاتا ہے)* |
-| at håbe / håber      | to hope / hopes  | at HOH-beh / HOH-ber   | umeed karna / karta hai *(امید کرنا / کرتا ہے)* |
-| at vente / venter    | to wait / waits  | at VEN-teh / VEN-ter   | intezar karna / karta hai *(انتظار کرنا / کرتا ہے)* |
-| at lære / lærer      | to learn / learns| at LAY-reh / LAY-rer   | seekhna / seekhta hai *(سیکھنا / سیکھتا ہے)* |
-| at bo / bor          | to live / lives  | at boh / bor           | rehana / rehta hai *(رہنا / رہتا ہے)* |
-| at arbejde / arbejder| to work / works  | at AR-bay-deh / AR-bay-der | kaam karna / karta hai *(کام کرنا / کرتا ہے)* |
+| Danish Verb / Form       | English Meaning       | Pronunciation (Jamalu-style)      | Roman Urdu/Hindi (اردو ترجمہ)                                      |
+|-------------------------|-----------------------|----------------------------------|-------------------------------------------------------------------|
+| at klæde / klæder       | to dress / dresses    | at KLAY-theh / KLAY-der          | pehnana / pehnta hai *(پہنانا / پہنتا ہے)*                       |
+| at føle / føler         | to feel / feels      | at FUL-leh / FUL-ler             | mehsoos karna / mehsoos karta hai *(محسوس کرنا / محسوس کرتا ہے)*    |
+| at vaske / vasker       | to wash / washes     | at VAS-keh / VAS-ker             | dhona / dhota hai *(دھونا / دھوتا ہے)*                            |
+| at vågte / vågter       | to guard / guards    | at VAWG-teh / VAWG-ter           | hifazat karna / karta hai *(حفاظت کرنا / کرتا ہے)*                 |
+| at vise / viser         | to show / shows      | at VEE-seh / VEE-ser             | dikhana / dikhata hai *(دکھانا / دکھاتا ہے)*                      |
+| at håbe / håber         | to hope / hopes      | at HOH-beh / HOH-ber             | umeed karna / karta hai *(امید کرنا / کرتا ہے)*                    |
+| at vente / venter       | to wait / waits      | at VEN-teh / VEN-ter             | intezar karna / karta hai *(انتظار کرنا / کرتا ہے)*                |
+| at lære / lærer         | to learn / learns    | at LAY-reh / LAY-rer             | seekhna / seekhta hai *(سیکھنا / سیکھتا ہے)*                      |
+| at bo / bor             | to live / lives      | at boh / bor                     | rehana / rehta hai *(رہنا / رہتا ہے)*                             |
+| at arbejde / arbejder   | to work / works      | at AR-bay-deh / AR-bay-der       | kaam karna / karta hai *(کام کرنا / کرتا ہے)*                      |
 
 
 **Group 3 – Modal-like verbs**  
