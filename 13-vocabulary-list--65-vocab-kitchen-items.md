@@ -1,6 +1,7 @@
 # 🌟 Lesson 65 – Kitchen Items Vocabulary 🍽️  
 🇩🇰 Learn Danish Through Story + Soul  
 Where every pot and plate whispers the poetry of home.
+
 A kitchen sings in many tongues — here are 50 soft-spoken names it whispers.
 
 ---
