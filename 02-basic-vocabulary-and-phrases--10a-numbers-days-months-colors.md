@@ -1,4 +1,4 @@
-# 🌟 10a – Numbers – Tal i Dansk  
+# 🌟 10a – Numbers – Tal i Dansk  (Speak in Danish)
 ## 🇩🇰 Learn Danish Through Story + Soul  
 🗣️ Counting not just things — but presence, pauses, and the poetry of every number.
 
