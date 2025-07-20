@@ -48,45 +48,45 @@ He gestures toward his own body:
 
 ## 2. 📘 Vocabulary + Pronunciation Table
 
-| Danish Word | English Meaning | Pronunciation (Jamalu-style) | Roman Urdu/Hindi (اردو ترجمہ)             |
-|-------------|------------------|------------------------------|-------------------------------------------|
-| hej         | hello            | like “hi”, soft and warm     | hello (ہیلو)                              |
-| tak         | thank you        | like “tuck”, but with love   | shukriya (شکریہ)                          |
-| ja          | yes              | yah (whispered agreement)    | haan (ہاں)                                |
-| nej         | no               | nai (kindly, not cold)       | nahi (نہیں)                               |
-| undskyld    | excuse me/sorry  | oon-skool, with humility     | maaf kijiyega (معاف کیجیے گا)            |
-| værsgo      | here you go      | vares-go, soft ‘s’           | lijiye (لیجیے)                            |
-| godmorgen   | good morning     | goh-morn, like a stretch     | subah bakhair (صبح بخیر)                 |
-| godnat      | good night       | goh-nat, like tucking a word | shab bakhair (شب بخیر)                   |
-| farvel      | goodbye          | far-vel, like letting go     | alvida (الوداع)                           |
-| vi ses      | see you          | vee-ses, light and true      | phir milenge (پھر ملیں گے)               |
-| hvad        | what             | veh (not ‘what?!’—gentle)    | kya (کیا)                                 |
-| hvordan     | how              | vor-dan                     | kaise (کیسے)                              |
-| du          | you              | doo (like asking kindly)     | tum/aap (تم/آپ)                           |
-| jeg         | I / me           | yai (from the chest)         | mein (میں)                                |
-| elsker      | love (verb)      | el-sker, say with feeling    | pyaar karta/karti hoon (پیار کرتا ہوں)    |
+| Danish Word | English Meaning     | Pronunciation (Jamalu-style)      | Roman Urdu/Hindi (اردو ترجمہ)                            |
+|-------------|---------------------|-----------------------------------|----------------------------------------------------------|
+| hej         | hello               | like “hi”, soft and warm          | *hai* → hello (ہیلو)                                     |
+| tak         | thank you           | like “tuck”, but with love        | *tuk* → shukriya (شکریہ)                                |
+| ja          | yes                 | yah (whispered agreement)         | *yaa* → haan (ہاں)                                       |
+| nej         | no                  | nai (kindly, not cold)            | *nai* → nahi (نہیں)                                      |
+| undskyld    | excuse me/sorry     | oon-skool, with humility          | *oon-skool* → maaf kijiyega (معاف کیجیے گا)             |
+| værsgo      | here you go         | vares-go, soft ‘s’                | *vares-go* → lijiye (لیجیے)                             |
+| godmorgen   | good morning        | goh-morn, like a stretch          | *goh-morn* → subah bakhair (صبح بخیر)                  |
+| godnat      | good night          | goh-nat, like tucking a word      | *goh-nat* → shab bakhair (شب بخیر)                      |
+| farvel      | goodbye             | far-vel, like letting go          | *far-vel* → alvida (الوداع)                             |
+| vi ses      | see you             | vee-ses, light and true           | *vee-ses* → phir milenge (پھر ملیں گے)                  |
+| hvad        | what                | veh (not ‘what?!’—gentle)         | *veh* → kya (کیا)                                        |
+| hvordan     | how                 | vor-dan                          | *vor-dan* → kaise (کیسے)                                 |
+| du          | you                 | doo (like asking kindly)          | *doo* → tum/aap (تم / آپ)                               |
+| jeg         | I / me              | yai (from the chest)              | *yai* → mein (میں)                                       |
+| elsker      | love (verb)         | el-sker, say with feeling         | *el-sker* → pyaar karta/karti hoon (پیار کرتا/کرتی ہوں) |
 
 ---
 
 ## 3. 🔁 Gentle Repetition Practice
 
-- You say: “Hej!” _(like “hi”, Roman Urdu: hello — ہیلو)_  
+- You say: “Hej!” _(like “hi”, Roman Urdu: *hai* → hello — ہیلو)_  
 - I say: “Hej!” _(soft breath, no tension)_  
 _(Repeat 3x)_
 
-- You say: “Tak!” _(like “tuck”, Roman Urdu: شکریہ)_  
+- You say: “Tak!” _(like “tuck”, Roman Urdu: *tuk* → shukriya — شکریہ)_  
 - I say: “Tak!” _(small word, big warmth)_  
 _(Repeat 2x)_
 
-- You say: “Ja.” _(yes, Roman Urdu: ہاں)_  
+- You say: “Ja.” _(yes, Roman Urdu: *yaa* → haan — ہاں)_  
 - I say: “Ja.” _(whisper it like agreement, not command)_  
 _(Repeat 2x)_
 
-- You say: “Undskyld.” _(excuse me, Roman Urdu: معاف کیجیے گا)_  
+- You say: “Undskyld.” _(excuse me, Roman Urdu: *oon-skool* → maaf kijiyega — معاف کیجیے گا)_  
 - I say: “Undskyld.” _(feel your apology before you say it)_  
 _(Repeat 2x)_
 
-- You say: “Godnat.” _(good night, Roman Urdu: شب بخیر)_  
+- You say: “Godnat.” _(good night, Roman Urdu: *goh-nat* → shab bakhair — شب بخیر)_  
 - I say: “Godnat.” _(say it like a blessing)_  
 _(Repeat 2x)_
 
