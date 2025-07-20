@@ -1,4 +1,4 @@
-# 🇩🇰 Lesson 06: IPA & Jamalu-Style Sounds  
+# 🇩🇰 Lesson 06a: IPA & Jamalu-Style Sounds  
 *Learn Danish through Soul & Sound*
 
 ---
