@@ -1,11 +1,12 @@
 # 🌟 Lesson 65 – Kitchen Items Vocabulary 🍽️  
 🇩🇰 Learn Danish Through Story + Soul  
+Where every pot and plate whispers the poetry of home.
 A kitchen sings in many tongues — here are 50 soft-spoken names it whispers.
 
 ---
 
 “Today, we don’t just name utensils —  
-we bring warmth to the words that stir our daily rituals.”
+we place warmth in the kitchen, and meaning on the tongue, softly.”
 
 | Danish Word         | English Meaning     | Pronunciation (Jamalu-style)         | Roman Urdu-Hindi             |
 |---------------------|---------------------|--------------------------------------|-------------------------------|
