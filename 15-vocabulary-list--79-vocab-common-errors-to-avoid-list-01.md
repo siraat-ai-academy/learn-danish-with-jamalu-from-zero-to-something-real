@@ -1,4 +1,4 @@
-# ⚠️ 79 – Common Errors to Avoid  
+# ⚠️ 79 – Common Errors to Avoid – List 01  
 ## 🇩🇰 Learn Danish Through Story + Soul  
 🤔 Gentle heads-up on pronunciation and word use that learners often trip over.
 
