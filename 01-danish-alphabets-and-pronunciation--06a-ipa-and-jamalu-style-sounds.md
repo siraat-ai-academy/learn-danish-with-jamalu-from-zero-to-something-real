@@ -1,6 +1,7 @@
 # 🌟 06a – IPA & Jamalu-Style Sounds  
 ## 🇩🇰 Learn Danish Through Soul & Sound  
 🗣️ Where phonetics turn into whispers of meaning — and every sound carries a story.
+
 ---
 
 ## 1. 🧵 Emotional Story: The Lesson Through Dialogue
