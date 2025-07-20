@@ -1,4 +1,4 @@
-```markdown
+
 # 🌟 14 – Articles: *en* and *et*  
 ## 🇩🇰 Learn Danish Through Story + Soul  
 🌱 Every noun needs a little hand to hold — and Danish gives it one, softly.
@@ -83,6 +83,6 @@ _(Repeat. Smile. Breathe.)_
 > “Real pronunciation isn’t in the tongue — it’s in the intention.”  
 > — Jamalu, whisper behind the work  
 > — Siraat AI Academy
-```
+
 
 Would you like to follow this up with a poetic lesson on **plural forms** or **sentence building with articles**? I'm ready. 🌿
