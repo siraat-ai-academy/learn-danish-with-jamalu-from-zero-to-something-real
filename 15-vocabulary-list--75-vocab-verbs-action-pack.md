@@ -1,73 +1,70 @@
-# 🌟 75 – Action Verbs Vocabulary  
-## 🇩🇰 Learn Danish Through Story + Soul  
-🚶 Essential verbs to move, make, and mean what you say.
+# 🌟 **Lesson 75 – Action Verbs Vocabulary 🏃‍♂️🛠️**  
+🇩🇰 Learn Danish Through Story + Soul  
+To move is to express — these verbs carry the rhythm of intention and everyday grace.
 
 ---
 
-> “Today, we don’t just list words —  
-> we name the gentle forces that move our world.”  
->  
-> We place meaning on the tongue, softly.
+“Today, we don’t just list verbs —  
+we let each word step gently into action, and every motion speak softly.”
+
+| Danish Word     | English Meaning     | Pronunciation (Jamalu-style)        | Roman Urdu-Hindi              |
+|------------------|----------------------|-------------------------------------|-------------------------------|
+| gå               | to walk              | **go** (soft step)                  | chalna (چلنا)                 |
+| løbe             | to run               | **lur-beh** (rush breath)           | daurna (دوڑنا)               |
+| stå              | to stand             | **stoh** (firm stillness)           | khara hona (کھڑا ہونا)        |
+| sidde            | to sit               | **si-theh** (gentle pause)          | baithna (بیٹھنا)              |
+| ligge            | to lie down          | **lee-geh** (resting hum)           | letna (لیٹنا)                |
+| hoppe            | to jump              | **hop-peh** (springing sound)       | koodna (کودنا)               |
+| sove             | to sleep             | **soh-veh** (dream’s door)          | sona (سونا)                  |
+| vågne            | to wake up           | **voh-neh** (soft open)             | uthna (اٹھنا)                |
+| spise            | to eat               | **spee-seh** (like “peace”)         | khana (کھانا)                |
+| drikke           | to drink             | **dri-keh**                         | peena (پینا)                 |
+| åbne             | to open              | **ohb-neh**                         | kholna (کھولنا)              |
+| lukke            | to close             | **loo-keh**                         | band karna (بند کرنا)         |
+| tage             | to take              | **tah-geh**                         | lena (لینا)                  |
+| give             | to give              | **gee-veh**                         | dena (دینا)                  |
+| skrive           | to write             | **skree-veh**                       | likhna (لکھنا)               |
+| læse             | to read              | **lay-seh**                         | parhna (پڑھنا)               |
+| tale             | to speak             | **tah-leh**                         | bolna (بولنا)                |
+| lytte            | to listen            | **loo-teh**                         | sunna (سننا)                 |
+| spørge           | to ask               | **spør-geh**                        | poochhna (پوچھنا)            |
+| svare            | to answer            | **svah-reh**                        | jawab dena (جواب دینا)        |
+| se               | to see               | **seh** (like “say” softly)         | dekhna (دیکھنا)              |
+| kigge            | to look              | **kee-geh**                         | nazar dalna (نظر ڈالنا)      |
+| finde            | to find              | **fin-deh**                         | dhoondhna (ڈھونڈنا)           |
+| miste            | to lose              | **mis-teh**                         | khona (کھونا)                |
+| tænke            | to think             | **ten-keh**                         | sochna (سوچنا)               |
+| vide             | to know              | **vee-theh**                        | maloom hona (معلوم ہونا)      |
+| forstå           | to understand        | **for-stoh**                        | samajhna (سمجھنا)             |
+| lære             | to learn             | **leh-reh**                         | seekhna (سیکھنا)             |
+| arbejde          | to work              | **ar-bye-deh**                      | kaam karna (کام کرنا)         |
+| lave             | to make / do         | **lah-veh**                         | banana / karna (بنाना / کرنا) |
+| bruge            | to use               | **broo-geh**                        | istemal karna (استعمال کرنا)  |
+| vaske            | to wash              | **vah-skeh**                        | dhona (دھونا)                |
+| rydde            | to clean / tidy up   | **ryu-deh**                         | saaf karna (صاف کرنا)         |
+| hjælpe           | to help              | **yel-peh**                         | madad karna (مدد کرنا)        |
+| vente            | to wait              | **ven-teh**                         | intizaar karna (انتظار کرنا)  |
+| begynde          | to begin              | **beh-gün-neh**                     | shuru karna (شروع کرنا)       |
+| slutte           | to end / finish       | **sloo-teh**                        | khatam karna (ختم کرنا)       |
+| spille           | to play (games/music) | **spil-leh**                        | khelna / bajana (کھیلنا / بجانا) |
+| danse            | to dance              | **dan-seh**                         | naachna (ناچنا)              |
+| synge            | to sing               | **soong-eh**                        | gaana (گانا)                 |
+| grine            | to laugh              | **gree-neh**                        | hansna (ہنسنا)               |
+| græde            | to cry                | **grah-theh**                       | rona (رونا)                  |
+| føle             | to feel               | **fuh-leh**                         | mehsoos karna (محسوس کرنا)     |
+| elske            | to love               | **el-skeh**                         | pyaar karna (پیار کرنا)       |
+| hade             | to hate               | **hah-theh**                        | nafrat karna (نفرت کرنا)      |
+| vente på         | to wait for           | **ven-teh poh**                     | kisi ka intezaar (کسی کا انتظار) |
+| rejse            | to travel             | **rye-seh**                         | safar karna (سفر کرنا)        |
+| bo               | to live (reside)      | **boh**                             | rehna (رہنا)                 |
+| huske            | to remember           | **hoos-keh**                        | yaad rakhna (یاد رکھنا)       |
+| glemme           | to forget             | **glem-meh**                        | bhoolna (بھولنا)              |
 
 ---
 
-| Danish Verb     | English Meaning    | Pronunciation (Jamalu-style) | Roman Urdu             |
-|------------------|--------------------|-------------------------------|-------------------------|
-| gå               | to walk            | *goh*                         | chalna                 |
-| løbe             | to run             | *luh-buh*                     | bhaagna                |
-| spise            | to eat             | *spee-seh*                    | khana                  |
-| drikke           | to drink           | *drik-eh*                     | peena                  |
-| sove             | to sleep           | *soh-veh*                     | sona                   |
-| vågne            | to wake up         | *voh-ne*                      | uthna                  |
-| skrive           | to write           | *skree-veh*                   | likhna                 |
-| læse             | to read            | *lay-seh*                     | parhna                 |
-| sige             | to say             | *see-eh*                      | kehna                  |
-| høre             | to hear            | *huh-reh*                     | sunna                  |
-| se               | to see             | *say*                         | dekhna                 |
-| tænke            | to think           | *ten-keh*                     | sochna                 |
-| føle             | to feel            | *fu-leh*                      | mehsoos karna          |
-| åbne             | to open            | *ob-neh*                      | kholna                 |
-| lukke            | to close           | *look-eh*                     | band karna             |
-| give             | to give            | *gee-veh*                     | dena                   |
-| tage             | to take            | *tay-eh*                      | lena                   |
-| hjælpe           | to help            | *yel-peh*                     | madad karna            |
-| lære             | to learn           | *leh-reh*                     | seekhna                |
-| forstå           | to understand      | *for-stoh*                    | samajhna               |
-| arbejde          | to work            | *ar-bai-deh*                  | kaam karna             |
-| spille           | to play (game/music)| *speel-leh*                  | khelna / bajana        |
-| finde            | to find            | *fin-deh*                     | dhoondhna              |
-| miste            | to lose            | *mis-teh*                     | khona                  |
-| købe             | to buy             | *ku-beh*                      | khareedna              |
-| betale           | to pay             | *beh-tal-eh*                  | adaigi karna           |
-| bruge            | to use             | *broo-geh*                    | istemal karna          |
-| elske            | to love            | *el-skeh*                     | pyar karna             |
-| håbe             | to hope            | *ho-beh*                      | umeed karna            |
-| starte           | to start           | *star-teh*                    | shuru karna            |
-| stoppe           | to stop            | *stop-peh*                    | rukna                  |
-| svare            | to answer          | *sva-reh*                     | jawab dena             |
-| spørge           | to ask             | *spur-geh*                    | poochhna               |
-| rejse            | to travel          | *rai-seh*                     | safar karna            |
-| bo               | to live/reside     | *boh*                         | rehna                  |
-| komme            | to come            | *kom-meh*                     | aana                   |
-| gå ud            | to go out          | *goh ood*                     | bahar jana             |
-| gå ind           | to go in           | *goh in*                      | andar jana             |
-| stå              | to stand           | *stoh*                        | khara hona             |
-| sidde            | to sit             | *sid-deh*                     | baithna                |
-| lave             | to make/do         | *lah-veh*                     | banana / karna         |
-| rydde op         | to clean up        | *ru-dde op*                   | safai karna            |
-| tænke over       | to reflect         | *ten-keh oh-ver*              | ghoor karna            |
-| nyde             | to enjoy           | *nyoo-theh*                   | lutf uthana            |
-| koge             | to boil/cook       | *ko-geh*                      | ubaalna / pakaana      |
-| fryse            | to freeze          | *fru-seh*                     | jamana                 |
-| ændre            | to change          | *en-dreh*                     | tabdeel karna          |
-| beslutte         | to decide          | *beh-sloot-teh*               | faisla karna           |
-| vente            | to wait            | *ven-teh*                     | intizaar karna         |
-| gå videre        | to move on         | *goh vee-deh-reh*             | aage barhna            |
+“Today I didn’t just learn words —  
+I stepped through a doorway of expression,  
+where every verb was a heartbeat, and every motion made meaning.”
 
----
-
-> “Today I didn’t just learn how to act —  
-> I learned how intention becomes motion.”
-
-> — *Jamalu, the whisper behind the work*  
-> — *Siraat AI Academy*
+— Jamalu, whisper behind the work  
+— Siraat AI Academy
