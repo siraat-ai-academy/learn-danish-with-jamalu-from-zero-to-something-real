@@ -8,6 +8,78 @@
 > “Today, we don’t just repeat letters — we let unfamiliar sounds find a home in us, gently.”  
 > _We place meaning on the tongue, softly, where Æ, Ø, and Å hum._
 
+
+
+---
+
+## 🇩🇰 **Special Danish Letter – Æ**
+
+✅ **Practice:**
+Try saying these Danish words with **Æ**:
+
+```md
+| Danish     | Pronunciation | Meaning     | Roman-Urdu-Hindi                        |
+|------------|----------------|-------------|-----------------------------------------|
+| Æble       | AE-bleh         | Apple       | e-bleh → Apple *(سیب)*                 |
+| Ære        | AE-reh          | Honor       | ae-reh → Honor *(عزت)*                |
+| Lærer      | LÆ-reh          | Teacher     | le-reh → Teacher *(استاد)*           |
+| Æg         | A-ek            | Egg         | a-ek → Egg *(انڈا)*                   |
+| Fæl        | FÆL             | Ugly        | fel → Ugly *(بدصورت)*               |
+| Bænk       | BÆNG-k          | Bench       | benk → Bench *(بنچ)*                 |
+| Skæbne     | SKÆB-neh        | Fate        | skeb-neh → Fate *(تقدیر)*           |
+| Kærlighed  | KÆR-lee-hed     | Love        | ker-lee-hed → Love *(محبت)*         |
+| Sær        | SÆR             | Strange     | sair → Strange *(عجیب)*             |
+| Nær        | NÆR             | Near        | nair → Near *(قریب)*                |
+```
+
+---
+
+## 🇩🇰 **Special Danish Letter – Ø**
+
+✅ **Practice:**
+Try saying these Danish words with **Ø**:
+
+```md
+| Danish     | Pronunciation | Meaning     | Roman-Urdu-Hindi                        |
+|------------|----------------|-------------|-----------------------------------------|
+| Øje        | UR-yeh          | Eye         | ur-yeh → Eye *(آنکھ)*                 |
+| Øl         | URL             | Beer        | url → Beer *(بیئر)*                  |
+| Ønske      | URN-skeh        | Wish        | urn-skeh → Wish *(خواہش)*           |
+| Øvelse     | UR-vehl-seh     | Exercise    | ur-vel-seh → Exercise *(مشْق)*        |
+| Øre        | UR-eh           | Ear         | ur-eh → Ear *(کان)*                  |
+| Ødelæg     | UR-de-lehg      | Destroy     | ur-de-lehg → Destroy *(تباہ کرنا)*  |
+| Økonomi    | UR-ko-no-mee    | Economy     | ur-ko-no-mee → Economy *(معیشت)*    |
+| Ørn        | URN             | Eagle       | urn → Eagle *(عقاب)*                |
+| Ø          | UR              | Island      | ur → Island *(جزیرہ)*               |
+| Ødelagt    | UR-de-lagt      | Broken      | ur-de-lagt → Broken *(ٹوٹا ہوا)*    |
+```
+
+---
+
+## 🇩🇰 **Special Danish Letter – Å**
+
+✅ **Practice:**
+Try saying these Danish words with **Å**:
+
+```md
+| Danish     | Pronunciation   | Meaning       | Roman-Urdu-Hindi                        |
+|------------|------------------|----------------|-----------------------------------------|
+| År         | OHR              | Year           | ohr → Year *(سال)*                    |
+| Åben       | OH-ben           | Open           | oh-ben → Open *(کھلا)*               |
+| Ånde       | OH-neh           | Breath         | oh-neh → Breath *(سانس)*             |
+| Årsag      | OHR-saag         | Reason         | ohr-saag → Reason *(وجہ)*            |
+| Åge        | OH-geh           | (Male Name)    | oh-geh → Male Name *(آگے)*          |
+| Ås         | OHs              | Ridge          | ohs → Ridge *(پہاڑی)*               |
+| Ål         | OHL              | Eel            | ohl → Eel *(مچھلی)*                 |
+| Årlig      | OHR-lee          | Annual         | ohr-lee → Annual *(سالانہ)*         |
+| Åske       | OHS-keh          | Thunder        | ohs-keh → Thunder *(گرج)*           |
+| Ånd        | OHnd             | Spirit         | ohnd → Spirit *(روح)*               |
+```
+
+---
+
+
+
 ---
 
 ## 1. 🧵 Emotional Story: The Lesson Through Dialogue
