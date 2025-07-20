@@ -1,77 +1,71 @@
-# 🇩🇰 71 – Body and Health Vocabulary  
-### Learn Danish Through Story + Soul
+# 🌟 **Lesson 71 – Body and Health Vocabulary 🩺🧠**  
+🇩🇰 Learn Danish Through Story + Soul  
+The body speaks in whispers — let us learn its language, one gentle word at a time.
 
 ---
 
-> “Today, we don’t just list words —  
-> we bring softness to the places that ache, and light to the parts that speak silently.”  
->  
-> We place meaning on the tongue, softly.
+“Today, we don’t just name parts and pains —  
+we listen softly to the voice of the body, and speak its needs with care.”
+
+| Danish Word       | English Meaning      | Pronunciation (Jamalu-style)         | Roman Urdu-Hindi               |
+|-------------------|----------------------|--------------------------------------|--------------------------------|
+| krop              | body                 | **krohp** (core of being)            | jism (جسم)                    |
+| hoved             | head                 | **hoh-vel** (like “hove-l”)          | sir (سر)                     |
+| ansigt            | face                 | **an-sigt** (soul window)            | chehra (چہرہ)                |
+| øje               | eye                  | **ur-yeh** (like “yearn”)            | aankh (آنکھ)                 |
+| øre               | ear                  | **ur-eh** (whisper gate)             | kaan (کان)                   |
+| næse              | nose                 | **nay-seh** (breathe soft)           | naak (ناک)                   |
+| mund              | mouth                | **moond** (soft round)               | munh (منہ)                   |
+| tand              | tooth                | **tant** (tiny tap)                  | daant (دانت)                 |
+| hals              | throat / neck        | **hals** (hum of voice)              | gardan / gala (گردن / گلا)     |
+| skulder           | shoulder             | **skool-der**                        | kandha (کندھا)               |
+| arm               | arm                  | **ahm** (reach out)                  | baazu (بازو)                 |
+| hånd              | hand                 | **hon** (like “hone”)                | haath (ہاتھ)                 |
+| finger            | finger               | **feeng-er** (soft point)            | ungli (انگلی)                |
+| mave              | stomach              | **mah-veh** (belly breath)           | pait (پیٹ)                   |
+| ryg               | back                 | **rügh** (backwind)                  | peeth (پیٹھ)                 |
+| ben               | leg / limb           | **bane** (step sound)                | tang (ٹانگ)                  |
+| fod               | foot                 | **footh** (earth touch)              | paon (پاؤں)                  |
+| knæ               | knee                 | **kneh** (soft bend)                 | ghutna (گھٹنا)               |
+| hjerte            | heart                | **yair-teh** (beat of soul)          | dil (دل)                     |
+| blod              | blood                | **bloed** (life river)               | khoon (خون)                  |
+| hud               | skin                 | **hood** (outer hush)                | jild (جلد)                   |
+| knogle            | bone                 | **knoh-leh** (soft crackle)          | haddi (ہڈی)                  |
+| muskel            | muscle               | **moo-skel**                         | patha (پٹھا)                 |
+| hjerne            | brain                | **yair-neh** (thought cloud)         | dimagh (دماغ)                |
+| nerver            | nerves               | **nare-ver**                         | asab (اعصاب)                 |
+| sygdom            | illness / disease    | **syg-dom** (like “sick dome”)       | bimari (بیماری)              |
+| smerte            | pain                 | **smair-teh** (aching breath)        | dard (درد)                   |
+| feber             | fever                | **fay-ber**                          | bukhar (بخار)                |
+| hovedpine         | headache             | **hoh-vel-pee-neh**                  | sir dard (سر درد)             |
+| hoste             | cough                | **hoh-steh** (sharp whisper)         | khaansi (کھانسی)              |
+| forkølelse        | cold (illness)       | **for-kurl-seh**                     | zukhaam (زکام)               |
+| influenza         | flu                  | **in-floo-en-sa**                    | nazla (نزلہ)                 |
+| mavepine          | stomachache          | **mah-veh-pee-neh**                  | pait dard (پیٹ درد)           |
+| læge              | doctor               | **lay-geh** (healing tone)           | doctor (ڈاکٹر)               |
+| hospital          | hospital             | **hos-pee-tal**                      | aspataal (ہسپتال)            |
+| klinik            | clinic               | **klee-neek**                        | clinic (کلینک)               |
+| recept            | prescription         | **reh-sept**                         | nuskha (نسخہ)                |
+| medicin           | medicine             | **meh-dee-seen**                     | dawa (دواء)                  |
+| apotek            | pharmacy              | **a-po-tek** (medicine place)        | dawa khana (دوائی خانہ)       |
+| sund              | healthy               | **soon** (sound in soul)             | sehatmand (صحت مند)          |
+| syg               | sick                  | **süg** (soft sigh)                  | beemar (بیمار)               |
+| undersøge         | to examine            | **un-der-sue-eh**                    | jaanchna (جانچنا)            |
+| helbred           | health                | **hel-bred** (heal + bread)          | sehat (صحت)                  |
+| vaccine           | vaccine               | **vak-seen**                         | tika (ٹیکا)                  |
+| behandling        | treatment             | **beh-han-ling**                     | ilaaj (علاج)                 |
+| operation         | surgery               | **o-per-a-shon**                     | operation (آپریشن)           |
+| blodtryk          | blood pressure         | **bloed-tryk**                       | khoon ka pressure (بلڈ پریشر) |
+| hjerteanfald      | heart attack           | **yair-teh-an-fald**                 | dil ka daura (دل کا دورہ)     |
+| sundhedskort      | health card            | **soon-heds-kort**                   | sehat ka card (صحت کارڈ)      |
+| konsultation      | consultation           | **kon-sul-ta-shon**                  | mashwara (مشورہ)             |
+| symptomer         | symptoms               | **symp-toh-mer**                     | alamat (علامات)              |
 
 ---
 
-This lesson walks through the body, not just as biology — but as a language of care.  
-Whether you’re visiting a doctor or simply describing how you feel — these words become tools for dignity and comfort.
+“Today I didn’t just learn words —  
+I leaned into the language of care and healing,  
+where every body speaks softly, and every word holds kindness.”
 
-| Danish Word     | English Meaning       | Pronunciation (Jamalu-style) | Roman Urdu |
-|------------------|------------------------|-------------------------------|-------------|
-| krop             | body                   | *krop*                        | kropp        |
-| hoved            | head                   | *HOH-vel*                     | hov-el       |
-| øjne             | eyes                   | *OY-neh*                      | oy-neh       |
-| øre              | ear                    | *UR-eh*                       | oor-eh       |
-| næse             | nose                   | *NAY-seh*                     | nay-seh      |
-| mund             | mouth                  | *muhn*                        | mun          |
-| tand             | tooth                  | *tant*                        | tand         |
-| hals             | throat / neck          | *hals*                        | hals         |
-| skulder          | shoulder               | *SKOOL-der*                   | skool-der    |
-| arm              | arm                    | *arm*                         | arm          |
-| hånd             | hand                   | *hon*                         | haan         |
-| finger           | finger                 | *FING-er*                     | fing-er      |
-| bryst            | chest                  | *brüst*                       | broost       |
-| mave             | stomach                | *MAY-veh*                     | may-veh      |
-| ryg              | back                   | *rug*                         | rug          |
-| ben              | leg                    | *bane*                        | bayn         |
-| knæ              | knee                   | *kne*                         | kne           |
-| fod              | foot                   | *footh*                       | food          |
-| tå               | toe                    | *taw*                         | toe           |
-| hjerte           | heart                  | *YER-teh*                     | yartay        |
-| blod             | blood                  | *bloat*                       | bload         |
-| sygdom           | illness                 | *SOO-dom*                     | soog-dom      |
-| smerte           | pain                   | *SMER-teh*                    | smertay       |
-| feber            | fever                  | *FEE-ber*                     | feebar        |
-| hoste            | cough                  | *HOOS-teh*                    | hoostay       |
-| forkølelse       | cold (illness)         | *for-KOHL-seh*                | for-kohl-say  |
-| hovedpine        | headache               | *HOH-vel-peen-eh*             | hov-el-peenay |
-| mavesmerter      | stomach ache           | *MAY-veh-smer-ter*            | may-veh-smertar|
-| allergi          | allergy                | *al-er-GEE*                   | allergy       |
-| medicin          | medicine               | *meh-dee-SEEN*                | med-de-seen   |
-| apotek           | pharmacy               | *AH-po-teck*                  | ap-o-tek      |
-| læge             | doctor                 | *LAY-yeh*                     | lay-yay       |
-| sygeplejerske    | nurse                  | *SOO-pley-er-skeh*            | soo-play-erskay|
-| patient          | patient                | *pa-SHENT*                    | pa-shent      |
-| konsultation     | consultation           | *kon-sool-ta-SHUN*            | konsol-ta-shun |
-| recept           | prescription           | *re-SEPT*                     | re-sept       |
-| undersøgelse     | examination            | *UN-der-sur-gel-seh*          | under-sur-jalsey|
-| temperatur       | temperature            | *temp-er-ah-TOOR*             | tempra-toor   |
-| varme            | warmth / hot           | *VAR-meh*                     | varm-eh       |
-| kulde            | cold (weather/temp)    | *KOOL-deh*                    | kool-day      |
-| vejrtrækning     | breathing              | *VAIR-trek-ning*              | wair-trek-ning|
-| ilt              | oxygen                 | *ilt*                         | ilt           |
-| blodtryk         | blood pressure         | *bload-tryck*                 | bload-trick   |
-| vaccine          | vaccine                | *vak-SEEN-eh*                 | vaccine-eh    |
-| infektion        | infection              | *in-FEK-shun*                 | infec-shun    |
-| behandling       | treatment               | *beh-HAND-ling*               | be-hand-ling  |
-| bedring          | recovery                | *BED-ring*                    | bed-ring      |
-| syg              | sick                    | *soog*                        | soog          |
-| træt             | tired                   | *trat*                        | trat          |
-| svimmel          | dizzy                   | *SVIM-mel*                    | svim-mel      |
-| stærk            | strong                  | *stairk*                      | sterk         |
-| rolig            | calm                    | *ROH-lee*                     | ro-lee        |
-
----
-
-> “Today I didn’t just learn the parts of my body —  
-> I learned how to ask for care, how to describe my pain, and how to honor what aches.”
-
-> — *Jamalu, the whisper behind the work*  
-> — *Siraat AI Academy*
+— Jamalu, whisper behind the work  
+— Siraat AI Academy
