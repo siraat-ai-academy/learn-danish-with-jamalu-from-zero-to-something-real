@@ -1,73 +1,69 @@
-# 🌸✨ 76 – Useful Nouns Vocabulary  
-## 🇩🇰 Learn Danish Through Story + Soul  
+# 🌟 **Lesson 76 – Useful Nouns Vocabulary 🧺🗝️**  
+🇩🇰 Learn Danish Through Story + Soul  
+Small words that carry big meaning — everyday names we reach for in rhythm.
 
 ---
 
-> “Today, we don’t just list words —  
-> we honor the quiet little names that hold our day together.”  
->  
-> We place meaning on the tongue, softly.
+“Today, we don’t just list common things —  
+we give presence to the little nouns that hold life’s gentle weight.”
+
+| Danish Word     | English Meaning      | Pronunciation (Jamalu-style)       | Roman Urdu-Hindi              |
+|------------------|-----------------------|------------------------------------|-------------------------------|
+| ting              | thing / item          | **ting** (soft and small)          | cheez (چیز)                  |
+| sted              | place                 | **stehd** (like “stead”)           | jagah (جگہ)                   |
+| navn              | name                  | **navn** (quiet claim)             | naam (نام)                   |
+| tid               | time                  | **teed** (like “tide”)             | waqt (وقت)                  |
+| dag               | day                   | **dah** (sunlight tone)            | din (دن)                     |
+| nat               | night                 | **nat** (hushed close)             | raat (رات)                  |
+| morgen            | morning               | **mor-en**                         | subah (صبح)                  |
+| aften             | evening               | **af-ten**                         | shaam (شام)                  |
+| uge               | week                  | **oo-geh**                         | hafta (ہفتہ)                 |
+| måned             | month                 | **mo-nehth**                       | mahina (مہینہ)              |
+| år                | year                  | **or**                             | saal (سال)                  |
+| familie           | family                | **fah-mee-lee-eh**                 | khandaan (خاندان)            |
+| barn              | child                 | **barn**                           | bacha (بچہ)                  |
+| voksen            | adult                 | **vohk-sen**                       | bara aadmi (بڑا آدمی)         |
+| mand              | man / husband         | **mand**                           | mard / shohar (مرد / شوہر)   |
+| kvinde            | woman / wife          | **kvin-neh**                       | aurat / biwi (عورت / بیوی)    |
+| ven               | friend (male)         | **ven**                            | dost (دوست)                  |
+| veninde           | friend (female)       | **veh-nin-deh**                    | saheli (سہیلی)               |
+| telefon           | phone                 | **teh-leh-fohn**                   | phone (فون)                 |
+| bog               | book                  | **boh**                            | kitaab (کتاب)               |
+| bil               | car                   | **beel**                           | gaari (گاڑی)                |
+| butik             | shop / store          | **boo-teek**                       | dukan (دکان)                |
+| hus               | house                 | **hoos**                           | ghar (گھر)                  |
+| arbejde           | work / job            | **ar-bye-deh**                     | kaam (کام)                  |
+| ferie             | holiday               | **feh-ree-eh**                     | chhutti (چھٹی)              |
+| fest              | party / celebration   | **fest**                           | tehwaar / party (تہوار)     |
+| gave              | gift / present        | **gah-veh**                        | tohfa (تحفہ)                |
+| problem           | problem               | **proh-blehm**                     | masla (مسئلہ)               |
+| løsning           | solution              | **lu-se-ning**                     | hal (حل)                    |
+| idé               | idea                  | **ee-deh**                         | soch / khayal (خیال)         |
+| besked            | message               | **beh-sketh**                      | paighaam (پیغام)            |
+| spørgsmål         | question              | **spors-mawl**                     | sawaal (سوال)               |
+| svar              | answer                | **svahr**                          | jawab (جواب)                |
+| hjælp             | help                  | **yel-p**                          | madad (مدد)                 |
+| job               | job                   | **job** (like English)             | naukri (نوکری)              |
+| skole             | school                | **sko-leh**                        | school (سکول)               |
+| klasse            | class                 | **kla-seh**                        | class (کلاس)                |
+| tidspunkt         | point in time         | **teed-spunkt**                    | waqt ka lamha (وقت کا لمحہ)   |
+| følelse           | feeling                | **fuh-leh-seh**                    | ehsas (احساس)                |
+| tanke             | thought                | **tang-keh**                       | soch (سوچ)                  |
+| liv               | life                   | **leev**                           | zindagi (زندگی)             |
+| død               | death                  | **duhth** (soft finality)          | maut (موت)                  |
+| vej               | road / way             | **vy** (like “why”)                | rasta (راستہ)               |
+| arbejdeplads      | workplace              | **ar-bye-deh-plats**               | kaam ki jagah (کام کی جگہ)    |
+| hobby             | hobby                  | **hoh-bee**                        | shauq (شوق)                  |
+| musik             | music                  | **moo-seek**                       | sangeet (سنگیت)             |
+| film              | movie / film           | **fil-m**                          | film (فلم)                  |
+| tv                | television             | **tay-vay**                        | TV (ٹی وی)                  |
+| internet          | internet               | **in-ter-net**                     | internet (انٹرنیٹ)          |
 
 ---
 
-| Danish Noun     | English Meaning       | Pronunciation (Jamalu-style) | Roman Urdu             |
-|------------------|------------------------|-------------------------------|-------------------------|
-| hus              | house                  | *hoos*                        | ghar                   |
-| bord             | table                  | *bohr*                        | mez                   |
-| stol             | chair                  | *stohl*                       | kursi                 |
-| bog              | book                   | *boh*                         | kitaab                |
-| taske            | bag                    | *tas-keh*                     | basta / bag           |
-| ven              | friend (masc/fem)      | *ven*                         | dost                  |
-| familie          | family                 | *fa-meel-yeh*                 | khandaan              |
-| barn             | child                  | *bahn*                        | bacha                 |
-| skole            | school                 | *sko-leh*                     | school                |
-| universitet      | university             | *oo-nee-vehr-see-teht*        | university            |
-| telefon          | phone                  | *teh-leh-fohn*                | phone                 |
-| computer         | computer               | *kom-pyu-ter*                 | computer              |
-| nøgle            | key                    | *noi-leh*                     | chaabi                |
-| dør              | door                   | *dur*                         | darwaza               |
-| vindue           | window                 | *vin-doo-eh*                  | khirki                |
-| seng             | bed                    | *seng*                        | bistar                |
-| tæppe            | blanket                | *teh-peh*                     | kambal                |
-| lampe            | lamp                   | *lam-peh*                     | lamp                  |
-| lys              | light                  | *lys*                         | roshni                |
-| bil              | car                    | *beel*                        | gaari                 |
-| bus              | bus                    | *boos*                        | bus                   |
-| tog              | train                  | *toh*                         | rail                  |
-| cykel            | bicycle                | *syoo-kel*                    | cycle                 |
-| butik            | shop/store             | *boo-tik*                     | dukaan                |
-| penge            | money                  | *peng-eh*                     | paisa                 |
-| mad              | food                   | *mel-th*                      | khana                 |
-| vand             | water                  | *van*                         | paani                 |
-| kaffe            | coffee                 | *ka-feh*                      | coffee                |
-| te               | tea                    | *teh*                         | chai                  |
-| kage             | cake                   | *ka-yeh*                      | cake                  |
-| frugt            | fruit                  | *frookt*                      | phal                  |
-| grøntsag         | vegetable              | *grun-sag*                    | sabzi                 |
-| tøj              | clothes                | *toy*                         | kapray                |
-| sko              | shoes                  | *sko*                         | jootay                |
-| hue              | hat                    | *hoo-eh*                      | topi                  |
-| jakke            | jacket                 | *ya-keh*                      | jacket                |
-| strømper         | socks                  | *strum-per*                   | moze                  |
-| hånd             | hand                   | *hon*                         | haath                 |
-| øje              | eye                    | *oy-eh*                       | aankh                 |
-| mund             | mouth                  | *muhn*                        | munh                  |
-| hoved            | head                   | *ho-ved*                      | sir                   |
-| fod              | foot                   | *fool*                        | paon                  |
-| ben              | leg                    | *bane*                        | taang                 |
-| hjerte           | heart                  | *yair-teh*                    | dil                   |
-| tanke            | thought                | *tan-keh*                     | soch                  |
-| drøm             | dream                  | *drum*                        | khwab                 |
-| arbejde          | work                   | *ar-bai-deh*                  | kaam                  |
-| ferie            | holiday                | *feh-ree-eh*                  | chhutti               |
-| idé              | idea                   | *ee-deh*                      | soch / khayal         |
-| stemme           | voice                  | *stem-meh*                    | awaaz                 |
-| tid              | time                   | *teel*                        | waqt                  |
+“Today I didn’t just learn words —  
+I gathered the soft stones of daily speech,  
+and Danish taught me how to hold them gently.”
 
----
-
-> “Today I didn’t just learn words for things —  
-> I learned to name what quietly carries my day.”
-
-> — *Jamalu, whisper behind the work*  
-> — *Siraat AI Academy*
+— Jamalu, whisper behind the work  
+— Siraat AI Academy
