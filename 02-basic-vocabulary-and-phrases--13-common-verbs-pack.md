@@ -52,7 +52,8 @@
 | leve      | to live      | leu-veh                        | leu-veh → jeena (جینا)                    |
 | hedde     | to be called | heh-theh                       | heh-theh → keh-lana (کہلانا)              |
 
-# Group: To Have & Ownership
+# Group: To Have & Ownership → At have & Ejerskab → aht hah-veh & eye-yer-skahb → rakhna aur milkiyat (رکھنا اور ملکیت)
+
 
 | Danish     | English     | Pronunciation (Jamalu‑style) | Roman-Urdu (اردو ترجمہ)                      |
 |------------|-------------|------------------------------|----------------------------------------------|
@@ -63,7 +64,8 @@
 | beholde    | to keep     | beh-hol-deh                  | beh-hol-deh → sambhalna *(سنبھالنا)*        |
 
 
-# Group: To Do & Action
+# Group: To Do & Action → At gøre & Handling → aht gøh-reh & han-dling → karna aur amal (کرنا اور عمل)
+
 
 | Danish   | English    | Pronunciation (Jamalu‑style) | Roman-Urdu (اردو ترجمہ)                          |
 |----------|------------|------------------------------|--------------------------------------------------|
@@ -74,7 +76,8 @@
 | bruge    | to use     | broo-seh                     | broo-seh → istemal karna *(استعمال کرنا)*       |
 
 
-# Group: Movement
+# Group: Movement → Bevægelse → beh-veh-geh-leh-seh → harkat (حرکت)
+
 
 | Danish | English     | Pronunciation (Jamalu‑style) | Roman-Urdu (اردو ترجمہ)                        |
 |--------|-------------|------------------------------|------------------------------------------------|
@@ -85,7 +88,8 @@
 | flyve  | to fly      | flu-veh                      | flu-veh → urhna *(اڑنا)*                      |
 
 
-# Group: Thinking & Feeling
+# Group: Thinking & Feeling → At tænke & Føle → aht ten-keh & fuh-leh → sochna aur mehsoos karna (سوچنا اور محسوس کرنا)
+
 
 | Danish | English     | Pronunciation (Jamalu‑style) | Roman-Urdu (اردو ترجمہ)                          |
 |--------|-------------|------------------------------|--------------------------------------------------|
@@ -96,7 +100,8 @@
 | ønske  | to wish      | oensh-keh                    | oensh-keh → khwahish karna *(خواہش کرنا)*       |
 
 
-# Group: Speaking & Understanding
+# Group: Speaking & Understanding → At tale & Forstå → aht ta-leh & for-stoh → bolna aur samajhna (بولنا اور سمجھنا)
+
 
 | Danish   | English           | Pronunciation (Jamalu‑style) | Roman-Urdu (اردو ترجمہ)                          |
 |----------|-------------------|------------------------------|--------------------------------------------------|
@@ -107,7 +112,8 @@
 | høre     | to hear           | hoo-reh                      | hoo-reh → sunna *(سننا)*                        |
 
 
-# Group: Daily Routines
+# Group: Daily Routines → Daglige rutiner → daag-lee-geh roo-tee-ner → rozmarra ke kaam (روزمرہ کے کام)
+
 
 | Danish | English     | Pronunciation (Jamalu‑style) | Roman-Urdu (اردو ترجمہ)                   |
 |--------|-------------|------------------------------|-------------------------------------------|
@@ -118,7 +124,8 @@
 | rense  | to clean    | ren-seh                      | ren-seh → saaf karna *(صاف کرنا)*       |
 
 
-# Group: Seeing & Sensing
+# Group: Seeing & Sensing → At se & Sanse → aht seh & san-seh → dekhna aur mehsoos karna (دیکھنا اور محسوس کرنا)
+
 
 | Danish | English          | Pronunciation (Jamalu‑style) | Roman-Urdu (اردو ترجمہ)                    |
 |--------|------------------|------------------------------|--------------------------------------------|
@@ -129,7 +136,8 @@
 | mærke  | to feel (sense)  | mehr-keh                     | mehr-keh → mehsoos karna *(محسوس کرنا)*    |
 
 
-# Group: Wanting & Needing
+# Group: Wanting & Needing → At ville & Behøve → aht vil-leh & beh-høh-veh → chahna aur zarurat hona (چاہنا اور ضرورت ہونا)
+
 
 | Danish  | English   | Pronunciation (Jamalu‑style) | Roman-Urdu (اردو ترجمہ)                       |
 |---------|-----------|------------------------------|-----------------------------------------------|
@@ -140,7 +148,9 @@
 | behøve  | to need   | beh-høh-veh                  | beh-høh-veh → zarurat hona *(ضرورت ہونا)*      |
 
 
-# Group: Time & Change
+# Group: Time & Change → Tid & Forandring → teed & for-an-dring → waqt aur tabdeeli (وقت اور تبدیلی)
+
+
 
 | Danish         | English    | Pronunciation (Jamalu‑style) | Roman-Urdu (اردو ترجمہ)                             |
 |----------------|------------|------------------------------|-----------------------------------------------------|
