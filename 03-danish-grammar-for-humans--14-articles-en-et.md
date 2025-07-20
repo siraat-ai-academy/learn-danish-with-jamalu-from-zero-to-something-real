@@ -38,6 +38,20 @@
 ## 2. 📘 Vocabulary + Pronunciation Table
 
 | Danish Word | English Meaning | Pronunciation (Jamalu-style) | Roman Urdu/Hindi (اردو ترجمہ)                        |
+|-------------|------------------|------------------------------|-------------------------------------------------------|
+| en kage     | a cake           | en kay-yeh                   | en kay-yeh → aik cake *(ایک کیک)*                    |
+| et brød     | a bread          | et bruth (soft ‘th’)         | et bruth → aik roti *(ایک روٹی)*                    |
+| en bog      | a book           | en boh                       | en boh → aik kitaab *(ایک کتاب)*                    |
+| et hus      | a house          | et hoos                      | et hoos → aik ghar *(ایک گھر)*                      |
+| en stol     | a chair          | en stole                     | en stole → aik kursi *(ایک کرسی)*                   |
+| et bord     | a table          | et bore                      | et bore → aik mez *(ایک میز)*                       |
+| en dreng    | a boy            | en drang                     | en drang → aik larka *(ایک لڑکا)*                   |
+| en pige     | a girl           | en pee-yeh                   | en pee-yeh → aik larki *(ایک لڑکی)*                 |
+| et æble     | an apple         | et AE-bleh                   | et e-bleh → aik saib *(ایک سیب)*                    |
+| en bil      | a car            | en beel                      | en beel → aik gaari *(ایک گاڑی)*                    |
+
+
+| Danish Word | English Meaning | Pronunciation (Jamalu-style) | Roman Urdu/Hindi (اردو ترجمہ)                        |
 |-------------|-----------------|------------------------------|------------------------------------------------------|
 | en kage     | a cake          | en kay-yeh                   | en kay-yeh → aik cake *(ایک کیک)*                    |
 | et brød     | a bread         | et bruth (soft ‘th’)         | et bruth → aik roti *(ایک روٹی)*                      |
