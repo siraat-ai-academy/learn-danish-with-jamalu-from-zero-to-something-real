@@ -17,7 +17,6 @@
 ✅ **Practice:**
 Try saying these Danish words with **Æ**:
 
-```md
 | Danish     | Pronunciation | Meaning     | Roman-Urdu-Hindi                        |
 |------------|----------------|-------------|-----------------------------------------|
 | Æble       | AE-bleh         | Apple       | e-bleh → Apple *(سیب)*                 |
@@ -30,7 +29,6 @@ Try saying these Danish words with **Æ**:
 | Kærlighed  | KÆR-lee-hed     | Love        | ker-lee-hed → Love *(محبت)*         |
 | Sær        | SÆR             | Strange     | sair → Strange *(عجیب)*             |
 | Nær        | NÆR             | Near        | nair → Near *(قریب)*                |
-```
 
 ---
 
@@ -39,7 +37,6 @@ Try saying these Danish words with **Æ**:
 ✅ **Practice:**
 Try saying these Danish words with **Ø**:
 
-```md
 | Danish     | Pronunciation | Meaning     | Roman-Urdu-Hindi                        |
 |------------|----------------|-------------|-----------------------------------------|
 | Øje        | UR-yeh          | Eye         | ur-yeh → Eye *(آنکھ)*                 |
@@ -52,7 +49,7 @@ Try saying these Danish words with **Ø**:
 | Ørn        | URN             | Eagle       | urn → Eagle *(عقاب)*                |
 | Ø          | UR              | Island      | ur → Island *(جزیرہ)*               |
 | Ødelagt    | UR-de-lagt      | Broken      | ur-de-lagt → Broken *(ٹوٹا ہوا)*    |
-```
+
 
 ---
 
@@ -61,7 +58,6 @@ Try saying these Danish words with **Ø**:
 ✅ **Practice:**
 Try saying these Danish words with **Å**:
 
-```md
 | Danish     | Pronunciation   | Meaning       | Roman-Urdu-Hindi                        |
 |------------|------------------|----------------|-----------------------------------------|
 | År         | OHR              | Year           | ohr → Year *(سال)*                    |
@@ -74,7 +70,7 @@ Try saying these Danish words with **Å**:
 | Årlig      | OHR-lee          | Annual         | ohr-lee → Annual *(سالانہ)*         |
 | Åske       | OHS-keh          | Thunder        | ohs-keh → Thunder *(گرج)*           |
 | Ånd        | OHnd             | Spirit         | ohnd → Spirit *(روح)*               |
-```
+
 
 ---
 
